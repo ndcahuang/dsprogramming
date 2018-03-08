@@ -1,7 +1,7 @@
 # Data Science Programming
-*姓名 | 黃仲安
-*學號 | B10209046(台科大)
-*信箱 | b10209046@mail.ntust.edu.tw
+* 姓名 | 黃仲安
+* 學號 | B10209046(台科大)
+* 信箱 | b10209046@mail.ntust.edu.tw
 
 ## [Week 1]
 * Set up git bash on workstation
