@@ -9,6 +9,6 @@
 * Completed tasks 1 thru 3
 
 ## [Week 2]
-* 
-* 
-* 
+* Wrote a crawler to parse news items from BBC-Asia
+* Created an R markdown document to visualize results
+* Made markdown results accessible through browsers

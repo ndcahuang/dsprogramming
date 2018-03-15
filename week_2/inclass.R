@@ -1,5 +1,6 @@
 require(XML)
 install.packages("XML")
+install.packages("knitr")
 #data <- xmlTreeParse("http://feeds.bbci.co.uk/news/world/asia/rss.xml")
 # xmltop = xmlRoot(data)
 # xmlSize(xmltop)
@@ -21,3 +22,4 @@ links = unlist(links)
 dates = unlist(dates)
 
 result = data.frame(Title=titles, Description=descriptions, Links=links, Dates=dates)
+result
