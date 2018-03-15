@@ -1,0 +1,65 @@
+---
+title: "BBC News - Asia Parser"
+author: Chung-An Huang
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+> This parser utilizes the XML library built into R to extract valuable fields, convert them into a data frame, and eventually visualize it in the form of a table.
+
+> data source : <http://rmarkdown.rstudio.com>.
+
+\s\s
+
+### Extraction
+```{r}
+# Load required library "XML"
+library(XML)
+```
+\s\s
+
+
+```{r}
+# Read source from url
+doc = xmlInternalTreeParse("http://feeds.bbci.co.uk/news/world/asia/rss.xml")
+```
+\s\s
+
+### Transformation
+```{r}
+# Parse desired values in tags into respective lists
+items = getNodeSet(doc, "//channel/item")
+titles = lapply(items, xpathApply, ".//title", xmlValue)
+descriptions = lapply(items, xpathApply, ".//description", xmlValue)
+links = lapply(items, xpathApply, ".//link", xmlValue)
+dates = lapply(items, xpathApply, ".//pubDate", xmlValue)
+```
+
+```{r}
+# Remove unnecessary pointers in lists
+titles = unlist(titles)
+descriptions = unlist(descriptions)
+links = unlist(links)
+dates = unlist(dates)
+```
+
+```{r}
+# Bind resulting lists to a data frame
+result = data.frame(Title=titles, Description=descriptions, Links=links, Dates=dates)
+summary(result)
+```
+
+
+### Loading
+```{r}
+# Load required library "knitr"
+library(knitr)
+```
+
+```{r}
+# Visualize result sets
+kable(result)
+```
