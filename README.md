@@ -12,3 +12,9 @@
 * Wrote a crawler to parse news items from BBC-Asia
 * Created an R markdown document to visualize results
 * Made markdown results accessible through browsers
+* Link: https://ndcahuang.github.io/dsprogramming/week_2/hw2.html
+## [Week 3]
+* Plotted raw vowel freqency samples obtained from experiments
+* Created an R markdwon document to visualize results
+* Made markdown results accessiable through browsers
+* Link: 
