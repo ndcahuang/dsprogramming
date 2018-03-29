@@ -17,4 +17,4 @@
 * Plotted raw vowel freqency samples obtained from experiments
 * Created an R markdwon document to visualize results
 * Made markdown results accessiable through browsers
-* Link: 
+* Link: https://ndcahuang.github.io/dsprogramming/week_3/ggp2.html
