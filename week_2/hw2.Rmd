@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 > This parser utilizes the XML library built into R to extract valuable fields, convert them into a data frame, and eventually visualize it in the form of a table.
 
-> data source : <http://rmarkdown.rstudio.com>.
+> data source : <http://feeds.bbci.co.uk/news/world/asia/rss.xml>
 
 \s\s
 
