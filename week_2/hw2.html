@@ -128,7 +128,7 @@ $(document).ready(function () {
 <p>This parser utilizes the XML library built into R to extract valuable fields, convert them into a data frame, and eventually visualize it in the form of a table.</p>
 </blockquote>
 <blockquote>
-<p>data source : <a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com</a>.</p>
+<p>data source : <a href="http://feeds.bbci.co.uk/news/world/asia/rss.xml" class="uri">http://feeds.bbci.co.uk/news/world/asia/rss.xml</a></p>
 </blockquote>
 <p></p>
 <div id="extraction" class="section level3">
@@ -156,38 +156,38 @@ dates = unlist(dates)</code></pre>
 <pre class="r"><code># Bind resulting lists to a data frame
 result = data.frame(Title=titles, Description=descriptions, Links=links, Dates=dates)
 summary(result)</code></pre>
-<pre><code>##                                                        Title   
-##  'Citizen scores' and the future of online reputation     : 1  
-##  'Disabled women are human too'                           : 1  
-##  'I want to explain arranged marriage to white people'    : 1  
-##  Afghans deported after landmark EU ruling                : 1  
-##  Australia considers visas for white South African farmers: 1  
-##  Australia fights drug addiction with plane flying lessons: 1  
-##  (Other)                                                  :27  
-##                                                                                                                Description
-##  'Faisal' and 'Hassan' are both Rohingya teenagers and both live with six others, but lead very different lives.     : 1  
-##  A diplomatic spat erupts after Australia says white farmers need &quot;help from a civilised country&quot;.                   : 1  
-##  A firm funded by Google founder Larry Page has unveiled an electric, self-flying air taxi, developed in New Zealand.: 1  
-##  A moment of fear in the air is part of a rehab programme in Australia.                                              : 1  
-##  A Pakistani designer who made a board game mocking arranged marriage says the media mistook her real intentions.    : 1  
-##  A retired teacher who travels alone gets Chinese people talking about seizing freedom in old age.                   : 1  
-##  (Other)                                                                                                             :27  
-##                                                     Links   
-##  http://www.bbc.co.uk/news/blogs-china-blog-43382141   : 1  
-##  http://www.bbc.co.uk/news/business-43078960           : 1  
-##  http://www.bbc.co.uk/news/business-43335813           : 1  
-##  http://www.bbc.co.uk/news/disability-42663127         : 1  
-##  http://www.bbc.co.uk/news/newsbeat-43383676           : 1  
-##  http://www.bbc.co.uk/news/science-environment-43377026: 1  
-##  (Other)                                               :27  
+<pre><code>##                                                                   Title   
+##  'Smoking' elephant in India baffles experts                         : 1  
+##  #MeToo movement takes hold in South Korea                           : 1  
+##  A day in the life of India's 'tuberculosis warrior'                 : 1  
+##  Actor Anthony Wong finds family who never knew him, after BBC report: 1  
+##  Anthony Wong: Hong Kong actor finds brothers after BBC report       : 1  
+##  Australia's indigenous languages have one source, study says        : 1  
+##  (Other)                                                             :32  
+##                                                                                                               Description
+##  A report on Hong Kong actor Anthony Wong's search for his father leads him to his long-lost brothers.              : 1  
+##  Aboriginal Australians reflect on National Geographic's racism in 1916, and public discourse today.                : 1  
+##  After Tillerson's quick exit - who will be part of high-stakes talks with North Korea?                             : 1  
+##  All indigenous languages can be traced to a mother tongue dubbed Proto-Australian, researchers say.                : 1  
+##  Amir Liaquat Hussain is popular with viewers - but has also been accused of inciting hatred and using lewd content.: 1  
+##  Anthony Wong, an award winning actor, had spent decades looking for traces of his British father.                  : 1  
+##  (Other)                                                                                                            :32  
+##                                                    Links   
+##  http://www.bbc.co.uk/news/business-43251862          : 1  
+##  http://www.bbc.co.uk/news/business-43564714          : 1  
+##  http://www.bbc.co.uk/news/entertainment-arts-43515888: 1  
+##  http://www.bbc.co.uk/news/health-43571120            : 1  
+##  http://www.bbc.co.uk/news/newsbeat-43030798          : 1  
+##  http://www.bbc.co.uk/news/stories-43516155           : 1  
+##  (Other)                                              :32  
 ##                            Dates   
-##  Fri, 09 Mar 2018 04:03:29 GMT: 1  
-##  Fri, 09 Mar 2018 08:59:57 GMT: 1  
-##  Fri, 09 Mar 2018 11:35:23 GMT: 1  
-##  Mon, 12 Mar 2018 02:23:31 GMT: 1  
-##  Mon, 12 Mar 2018 06:15:43 GMT: 1  
-##  Mon, 12 Mar 2018 08:43:47 GMT: 1  
-##  (Other)                      :27</code></pre>
+##  Fri, 16 Mar 2018 04:23:51 GMT: 1  
+##  Fri, 16 Mar 2018 15:45:07 GMT: 1  
+##  Fri, 16 Mar 2018 16:30:03 GMT: 1  
+##  Fri, 16 Mar 2018 22:06:45 GMT: 1  
+##  Fri, 23 Mar 2018 17:21:24 GMT: 1  
+##  Mon, 19 Mar 2018 08:02:23 GMT: 1  
+##  (Other)                      :32</code></pre>
 </div>
 <div id="loading" class="section level3">
 <h3>Loading</h3>
@@ -206,202 +206,232 @@ kable(result)</code></pre>
 </thead>
 <tbody>
 <tr class="odd">
-<td align="left">Australia considers visas for white South African farmers</td>
-<td align="left">A diplomatic spat erupts after Australia says white farmers need “help from a civilised country”.</td>
-<td align="left"><a href="http://www.bbc.co.uk/news/world-africa-43403408" class="uri">http://www.bbc.co.uk/news/world-africa-43403408</a></td>
-<td align="left">Wed, 14 Mar 2018 16:56:25 GMT</td>
+<td align="left">Malala Yousafzai returns to Pakistan for first time since shooting</td>
+<td align="left">The Nobel Peace Prize winner was shot and injured by the Taliban in 2012 for daring to go to school.</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-43578604" class="uri">http://www.bbc.co.uk/news/world-asia-43578604</a></td>
+<td align="left">Thu, 29 Mar 2018 00:29:51 GMT</td>
 </tr>
 <tr class="even">
-<td align="left">Biloela family taken off plane in Australian deportation reprieve</td>
-<td align="left">A small Australian town has campaigned to spare the family of four from removal to Sri Lanka.</td>
-<td align="left"><a href="http://www.bbc.co.uk/news/world-australia-43400974" class="uri">http://www.bbc.co.uk/news/world-australia-43400974</a></td>
-<td align="left">Wed, 14 Mar 2018 16:31:53 GMT</td>
+<td align="left">Trump keen to meet Kim after ‘successful’ China talks</td>
+<td align="left">The US president gives a positive reaction to the North Korean leader meeting China’s president.</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/world-us-canada-43573686" class="uri">http://www.bbc.co.uk/news/world-us-canada-43573686</a></td>
+<td align="left">Wed, 28 Mar 2018 16:01:52 GMT</td>
 </tr>
 <tr class="odd">
-<td align="left">The elderly backpacker who’s inspiring young Chinese</td>
-<td align="left">A retired teacher who travels alone gets Chinese people talking about seizing freedom in old age.</td>
-<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-china-43401904" class="uri">http://www.bbc.co.uk/news/world-asia-china-43401904</a></td>
-<td align="left">Thu, 15 Mar 2018 01:40:58 GMT</td>
+<td align="left">Australian ball-tampering: Darren Lehmann says side must stop ‘butting heads’</td>
+<td align="left">Australia must change their style of play and stop “butting heads” with opponents after the ball tampering scandal, says coach Darren Lehmann.</td>
+<td align="left"><a href="http://www.bbc.co.uk/sport/cricket/43571509" class="uri">http://www.bbc.co.uk/sport/cricket/43571509</a></td>
+<td align="left">Wed, 28 Mar 2018 19:15:17 GMT</td>
 </tr>
 <tr class="even">
-<td align="left">Quolls back from brink and out in the wild</td>
-<td align="left">The spotted marsupial has been reintroduced to the wild, decades after it was eradicated by foxes.</td>
-<td align="left"><a href="http://www.bbc.co.uk/news/world-australia-43411212" class="uri">http://www.bbc.co.uk/news/world-australia-43411212</a></td>
-<td align="left">Thu, 15 Mar 2018 03:03:02 GMT</td>
+<td align="left">Man has ‘world’s worst’ super-gonorrhoea</td>
+<td align="left">It is the first ever case that is resistant to the main antibiotic treatment.</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/health-43571120" class="uri">http://www.bbc.co.uk/news/health-43571120</a></td>
+<td align="left">Wed, 28 Mar 2018 16:26:26 GMT</td>
 </tr>
 <tr class="odd">
-<td align="left">Philippines drugs war: Duterte to withdraw from ICC</td>
-<td align="left">The move comes a month after the court began examining the Philippine leader’s war on drugs.</td>
-<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-43397837" class="uri">http://www.bbc.co.uk/news/world-asia-43397837</a></td>
-<td align="left">Wed, 14 Mar 2018 10:20:38 GMT</td>
+<td align="left">Win Myint elected new Myanmar president</td>
+<td align="left">The close aide of de facto leader Aung San Suu Kyi takes over after his predecessor resigned.</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-43564954" class="uri">http://www.bbc.co.uk/news/world-asia-43564954</a></td>
+<td align="left">Wed, 28 Mar 2018 07:11:20 GMT</td>
 </tr>
 <tr class="even">
-<td align="left">Japan plans to lower age of adulthood to 18</td>
-<td align="left">If passed, the bill will allow 18-year-olds to marry and sign contracts without parental consent.</td>
-<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-43391498" class="uri">http://www.bbc.co.uk/news/world-asia-43391498</a></td>
-<td align="left">Tue, 13 Mar 2018 16:53:05 GMT</td>
+<td align="left">Australia’s indigenous languages have one source, study says</td>
+<td align="left">All indigenous languages can be traced to a mother tongue dubbed Proto-Australian, researchers say.</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/world-australia-43564134" class="uri">http://www.bbc.co.uk/news/world-australia-43564134</a></td>
+<td align="left">Wed, 28 Mar 2018 02:01:54 GMT</td>
 </tr>
 <tr class="odd">
-<td align="left">Nyepi celebrations: Mobile internet turned off for Bali’s New Year</td>
-<td align="left">Phone companies agree to turn off mobile internet for 24 hours in Bali to mark the local New Year.</td>
-<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-43405525" class="uri">http://www.bbc.co.uk/news/world-asia-43405525</a></td>
-<td align="left">Wed, 14 Mar 2018 15:52:46 GMT</td>
+<td align="left">WTO: US-China trade war would have ‘severe’ economic impact</td>
+<td align="left">Global growth could fall “quickly” if Washington and Beijing push ahead with tariff threats, warns WTO.</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/business-43564714" class="uri">http://www.bbc.co.uk/news/business-43564714</a></td>
+<td align="left">Wed, 28 Mar 2018 05:24:57 GMT</td>
 </tr>
 <tr class="even">
-<td align="left">Afghans deported after landmark EU ruling</td>
-<td align="left">The two Afghan women lost their deportation case at the European Union’s top court last July.</td>
-<td align="left"><a href="http://www.bbc.co.uk/news/world-europe-43393879" class="uri">http://www.bbc.co.uk/news/world-europe-43393879</a></td>
-<td align="left">Tue, 13 Mar 2018 22:50:10 GMT</td>
+<td align="left">‘Smoking’ elephant in India baffles experts</td>
+<td align="left">It’s the first time a wild elephant has been seen apparently ingesting ash from a fire, experts say.</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-india-43551715" class="uri">http://www.bbc.co.uk/news/world-asia-india-43551715</a></td>
+<td align="left">Tue, 27 Mar 2018 05:43:51 GMT</td>
 </tr>
 <tr class="odd">
-<td align="left">Self-flying air taxi lifts off in New Zealand</td>
-<td align="left">A firm funded by Google founder Larry Page has unveiled an electric, self-flying air taxi, developed in New Zealand.</td>
-<td align="left"><a href="http://www.bbc.co.uk/news/technology-43386917" class="uri">http://www.bbc.co.uk/news/technology-43386917</a></td>
-<td align="left">Tue, 13 Mar 2018 13:43:49 GMT</td>
+<td align="left">Australia ball-tampering: Steve Smith, David Warner &amp; Cameron Bancroft sent home from SA</td>
+<td align="left">Cricket Australia sends captain Steve Smith, vice-captain David Warner and batsman Cameron Bancroft home from South Africa.</td>
+<td align="left"><a href="http://www.bbc.co.uk/sport/cricket/43543713" class="uri">http://www.bbc.co.uk/sport/cricket/43543713</a></td>
+<td align="left">Wed, 28 Mar 2018 09:50:10 GMT</td>
 </tr>
 <tr class="even">
-<td align="left">Barack Obama’s $6 dinner table preserved for posterity in Vietnam</td>
-<td align="left">A table in Vietnam where the US leader ate with US chef Anthony Bourdain is encased in glass.</td>
-<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-43387059" class="uri">http://www.bbc.co.uk/news/world-asia-43387059</a></td>
-<td align="left">Tue, 13 Mar 2018 12:34:04 GMT</td>
+<td align="left">Tiangong-1: China space station may fall to Earth ‘in days’</td>
+<td align="left">The defunct station is hurtling towards Earth but chances of it crashing in your garden are slim.</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-china-43551144" class="uri">http://www.bbc.co.uk/news/world-asia-china-43551144</a></td>
+<td align="left">Tue, 27 Mar 2018 07:40:06 GMT</td>
 </tr>
 <tr class="odd">
-<td align="left">Will ‘WhatsApping’ money change India’s e-payment market?</td>
-<td align="left">The messaging app’s entry into the Indian mobile payment market worries its biggest competitor.</td>
-<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-india-43286266" class="uri">http://www.bbc.co.uk/news/world-asia-india-43286266</a></td>
-<td align="left">Wed, 14 Mar 2018 04:55:59 GMT</td>
+<td align="left">Australian ball-tampering: Darren Lehmann ‘truly sorry’</td>
+<td align="left">Australia coach Darren Lehmann speaks to the media for the first time since the ball-tampering incident and says he is “truly sorry” for “letting people down”.</td>
+<td align="left"><a href="http://www.bbc.co.uk/sport/cricket/43571156" class="uri">http://www.bbc.co.uk/sport/cricket/43571156</a></td>
+<td align="left">Wed, 28 Mar 2018 18:36:24 GMT</td>
 </tr>
 <tr class="even">
-<td align="left">From Syria to safety in Pakistan: ‘We left children in Eastern Ghouta’</td>
-<td align="left">An elderly Pakistani couple talk about life under siege in Syria, and how their relatives clung to them.</td>
-<td align="left"><a href="http://www.bbc.co.uk/news/world-43407077" class="uri">http://www.bbc.co.uk/news/world-43407077</a></td>
-<td align="left">Thu, 15 Mar 2018 00:18:52 GMT</td>
+<td align="left">Anthony Wong: Hong Kong actor finds brothers after BBC report</td>
+<td align="left">A report on Hong Kong actor Anthony Wong’s search for his father leads him to his long-lost brothers.</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-china-43540148" class="uri">http://www.bbc.co.uk/news/world-asia-china-43540148</a></td>
+<td align="left">Mon, 26 Mar 2018 23:00:18 GMT</td>
 </tr>
 <tr class="odd">
-<td align="left">South Korea gaming: Death by overwork sparks calls for change</td>
-<td align="left">Critics say “crunch time”, an intense burst of work just before a game is released, can be dangerous.</td>
-<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-43315496" class="uri">http://www.bbc.co.uk/news/world-asia-43315496</a></td>
-<td align="left">Wed, 14 Mar 2018 01:52:31 GMT</td>
+<td align="left">Mahira Khan: Bollywood ‘never really the aim’</td>
+<td align="left">The Pakistani actress Mahira Khan on the controversy that surrounded the release of her film Raees.</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/entertainment-arts-43515888" class="uri">http://www.bbc.co.uk/news/entertainment-arts-43515888</a></td>
+<td align="left">Mon, 26 Mar 2018 10:20:31 GMT</td>
 </tr>
 <tr class="even">
-<td align="left">Nepal airport crash: ‘It tilted and hit its wings’</td>
-<td align="left">Dozens have died after a plane carrying 71 people crashed on landing at Nepal’s Kathmandu airport.</td>
-<td align="left"><a href="http://www.bbc.co.uk/news/world-43369433" class="uri">http://www.bbc.co.uk/news/world-43369433</a></td>
-<td align="left">Tue, 13 Mar 2018 04:08:46 GMT</td>
+<td align="left">I was expected to marry so I went to Antarctica instead</td>
+<td align="left">Meena was raised a ‘good Indian girl’ who was expected to get married, but she’s off to Antarctica.</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/stories-43516155" class="uri">http://www.bbc.co.uk/news/stories-43516155</a></td>
+<td align="left">Sun, 25 Mar 2018 00:34:23 GMT</td>
 </tr>
 <tr class="odd">
-<td align="left">Xi Jinping: What if Xi is president for life?</td>
-<td align="left">The BBC’s Howard Zhang explains why it matters that China has scrapped presidential term limits.</td>
-<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-china-43367500" class="uri">http://www.bbc.co.uk/news/world-asia-china-43367500</a></td>
-<td align="left">Mon, 12 Mar 2018 06:15:43 GMT</td>
+<td align="left">Actor Anthony Wong finds family who never knew him, after BBC report</td>
+<td align="left">Anthony Wong, an award winning actor, had spent decades looking for traces of his British father.</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-china-43538007" class="uri">http://www.bbc.co.uk/news/world-asia-china-43538007</a></td>
+<td align="left">Mon, 26 Mar 2018 23:00:33 GMT</td>
 </tr>
 <tr class="even">
-<td align="left">Perumal Murugan: India’s ‘dead’ writer returns with searing novel</td>
-<td align="left">Perumal Murugan makes a comeback after he declared his writing ‘dead’ to protest right-wing attacks.</td>
-<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-india-43194547" class="uri">http://www.bbc.co.uk/news/world-asia-india-43194547</a></td>
-<td align="left">Thu, 15 Mar 2018 02:36:16 GMT</td>
+<td align="left">Cricket scandal stings an incredulous nation</td>
+<td align="left">In a country where sport is often linked to national identity, allegations of cheating have hit hard.</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/world-australia-43537767" class="uri">http://www.bbc.co.uk/news/world-australia-43537767</a></td>
+<td align="left">Mon, 26 Mar 2018 05:04:40 GMT</td>
 </tr>
 <tr class="odd">
-<td align="left">Stephen Hawking: China’s love for the late physicist</td>
-<td align="left">Hawking was beloved around the world, but the respect he commanded in China was in another universe.</td>
-<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-china-43395650" class="uri">http://www.bbc.co.uk/news/world-asia-china-43395650</a></td>
-<td align="left">Wed, 14 Mar 2018 09:52:41 GMT</td>
+<td align="left">Pakistan’s first transgender TV anchor</td>
+<td align="left">Marvia Malik, a journalism graduate, told the BBC she was moved to tears when she was offered the job.</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-43544146" class="uri">http://www.bbc.co.uk/news/world-asia-43544146</a></td>
+<td align="left">Mon, 26 Mar 2018 15:00:44 GMT</td>
 </tr>
 <tr class="even">
-<td align="left">Shinzo Abe: N Korea and a school scandal heap pressure on Japan’s PM</td>
-<td align="left">As US North Korea undermines the alliance with Japan, Mr Abe is also facing a mounting scandal back home.</td>
-<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-43395476" class="uri">http://www.bbc.co.uk/news/world-asia-43395476</a></td>
-<td align="left">Wed, 14 Mar 2018 04:52:46 GMT</td>
+<td align="left">#MeToo movement takes hold in South Korea</td>
+<td align="left">Hundreds of women are speaking out against sexual abuse in South Korea. So can things change?</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-43534074" class="uri">http://www.bbc.co.uk/news/world-asia-43534074</a></td>
+<td align="left">Mon, 26 Mar 2018 00:24:40 GMT</td>
 </tr>
 <tr class="odd">
-<td align="left">Tame questions and an eye roll that rocked China</td>
-<td align="left">Sycophantic questions and blocked posts are among the tools used to manage this political event.</td>
-<td align="left"><a href="http://www.bbc.co.uk/news/blogs-china-blog-43382141" class="uri">http://www.bbc.co.uk/news/blogs-china-blog-43382141</a></td>
-<td align="left">Tue, 13 Mar 2018 13:30:32 GMT</td>
+<td align="left">Formula 1 is back - without the grid girls</td>
+<td align="left">As the racing season gets underway, not everyone is happy with the decision to axe grid girls.</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/newsbeat-43030798" class="uri">http://www.bbc.co.uk/news/newsbeat-43030798</a></td>
+<td align="left">Sun, 25 Mar 2018 01:11:41 GMT</td>
 </tr>
 <tr class="even">
-<td align="left">‘I want to explain arranged marriage to white people’</td>
-<td align="left">A Pakistani designer who made a board game mocking arranged marriage says the media mistook her real intentions.</td>
-<td align="left"><a href="http://www.bbc.co.uk/news/stories-43376355" class="uri">http://www.bbc.co.uk/news/stories-43376355</a></td>
-<td align="left">Wed, 14 Mar 2018 01:12:44 GMT</td>
+<td align="left">Who sent the wedding gift bomb that killed this newlywed?</td>
+<td align="left">He was murdered five days after his wedding - and police have no idea who could have wanted him dead.</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-india-43497820" class="uri">http://www.bbc.co.uk/news/world-asia-india-43497820</a></td>
+<td align="left">Sun, 25 Mar 2018 00:01:18 GMT</td>
 </tr>
 <tr class="odd">
-<td align="left">Nepal plane crash: Were poor communications to blame?</td>
-<td align="left">Experts say recordings show confusion between air traffic control and the pilot before the plane crash landed.</td>
-<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-43385117" class="uri">http://www.bbc.co.uk/news/world-asia-43385117</a></td>
-<td align="left">Tue, 13 Mar 2018 11:46:20 GMT</td>
+<td align="left">Australia ball-tampering row: The key questions facing Australian cricket</td>
+<td align="left">Who was involved? Are Australia out of control? We try to answer the key questions after Saturday’s ball-tampering.</td>
+<td align="left"><a href="http://www.bbc.co.uk/sport/cricket/43535282" class="uri">http://www.bbc.co.uk/sport/cricket/43535282</a></td>
+<td align="left">Sun, 25 Mar 2018 17:22:42 GMT</td>
 </tr>
 <tr class="even">
-<td align="left">Rohingya: Teenage life in world’s biggest refugee camp</td>
-<td align="left">‘Faisal’ and ‘Hassan’ are both Rohingya teenagers and both live with six others, but lead very different lives.</td>
-<td align="left"><a href="http://www.bbc.co.uk/news/newsbeat-43383676" class="uri">http://www.bbc.co.uk/news/newsbeat-43383676</a></td>
-<td align="left">Tue, 13 Mar 2018 12:48:38 GMT</td>
+<td align="left">The evolution of UK-Australia travel into a single flight</td>
+<td align="left">The first non-stop journey takes place on Saturday, almost 80 years after it involved 31 stopovers.</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/world-australia-43453264" class="uri">http://www.bbc.co.uk/news/world-australia-43453264</a></td>
+<td align="left">Fri, 23 Mar 2018 17:21:24 GMT</td>
 </tr>
 <tr class="odd">
-<td align="left">Why sharks like it hot - but not too hot</td>
-<td align="left">Scientists have calculated the water temperature at which tiger sharks are most active and abundant.</td>
-<td align="left"><a href="http://www.bbc.co.uk/news/science-environment-43377026" class="uri">http://www.bbc.co.uk/news/science-environment-43377026</a></td>
-<td align="left">Tue, 13 Mar 2018 00:17:12 GMT</td>
+<td align="left">A day in the life of India’s ‘tuberculosis warrior’</td>
+<td align="left">On world tuberculosis day, Dr Zarir Udwadia talks about his fight against the deadly disease.</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-india-43456442" class="uri">http://www.bbc.co.uk/news/world-asia-india-43456442</a></td>
+<td align="left">Sat, 24 Mar 2018 00:36:18 GMT</td>
 </tr>
 <tr class="even">
-<td align="left">Australia fights drug addiction with plane flying lessons</td>
-<td align="left">A moment of fear in the air is part of a rehab programme in Australia.</td>
-<td align="left"><a href="http://www.bbc.co.uk/news/world-australia-43369891" class="uri">http://www.bbc.co.uk/news/world-australia-43369891</a></td>
-<td align="left">Tue, 13 Mar 2018 00:19:13 GMT</td>
+<td align="left">Rebuilding your country with retro rock</td>
+<td align="left">Kak Channthy’s story of overcoming poverty and hardship inspired people from all around the globe.</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-43482011" class="uri">http://www.bbc.co.uk/news/world-asia-43482011</a></td>
+<td align="left">Wed, 21 Mar 2018 09:35:06 GMT</td>
 </tr>
 <tr class="odd">
-<td align="left">Fukushima’s long road to recovery</td>
-<td align="left">Seven years after a nuclear meltdown rocked the world’s third largest economy, we speak to those still dealing with the devastation.</td>
-<td align="left"><a href="http://www.bbc.co.uk/news/business-43078960" class="uri">http://www.bbc.co.uk/news/business-43078960</a></td>
-<td align="left">Sun, 11 Mar 2018 01:47:13 GMT</td>
+<td align="left">The Rohingya children trafficked for sex</td>
+<td align="left">Teenage refugee girls are being sold for sex after fleeing conflict in Myanmar, the BBC finds.</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-43469043" class="uri">http://www.bbc.co.uk/news/world-asia-43469043</a></td>
+<td align="left">Tue, 20 Mar 2018 22:53:37 GMT</td>
 </tr>
 <tr class="even">
-<td align="left">‘Citizen scores’ and the future of online reputation</td>
-<td align="left">China’s tech transformation proceeds apace, but with it comes more digital monitoring and control.</td>
-<td align="left"><a href="http://www.bbc.co.uk/news/business-43335813" class="uri">http://www.bbc.co.uk/news/business-43335813</a></td>
-<td align="left">Tue, 13 Mar 2018 00:21:21 GMT</td>
+<td align="left">Xi Jinping: How China’s president got ahead, in hats</td>
+<td align="left">The story of China’s parliament told in hats - and the shock that had some analysts eating theirs.</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-china-43480624" class="uri">http://www.bbc.co.uk/news/world-asia-china-43480624</a></td>
+<td align="left">Tue, 20 Mar 2018 23:20:20 GMT</td>
 </tr>
 <tr class="odd">
-<td align="left">India’s gay prince opens his palace for LGBT community</td>
-<td align="left">Since coming out, Manvendra Singh Gohil has been championing LGBT rights in India.</td>
-<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-india-43346168" class="uri">http://www.bbc.co.uk/news/world-asia-india-43346168</a></td>
-<td align="left">Mon, 12 Mar 2018 02:23:31 GMT</td>
+<td align="left">South Africa and the fable of the missing Guptas</td>
+<td align="left">The tale of how the Gupta family wormed its way into the heart of South Africa - and then vanished.</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/world-africa-43485872" class="uri">http://www.bbc.co.uk/news/world-africa-43485872</a></td>
+<td align="left">Thu, 22 Mar 2018 02:36:29 GMT</td>
 </tr>
 <tr class="even">
-<td align="left">Protesting India farmers: ‘We want what we were promised’</td>
-<td align="left">Thousands of Indian farmers march to Mumbai to protest over prices, loans and land rights.</td>
-<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-india-43369001" class="uri">http://www.bbc.co.uk/news/world-asia-india-43369001</a></td>
-<td align="left">Mon, 12 Mar 2018 08:43:47 GMT</td>
+<td align="left">The ‘hate speech’ TV anchor teaming up with Imran Khan</td>
+<td align="left">Amir Liaquat Hussain is popular with viewers - but has also been accused of inciting hatred and using lewd content.</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-43471552" class="uri">http://www.bbc.co.uk/news/world-asia-43471552</a></td>
+<td align="left">Wed, 21 Mar 2018 07:40:14 GMT</td>
 </tr>
 <tr class="odd">
-<td align="left">Papua New Guinea quake: An invisible disaster which could change life forever</td>
-<td align="left">The impact of February’s quake in Papua New Guinea may change remote communities forever.</td>
-<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-43297145" class="uri">http://www.bbc.co.uk/news/world-asia-43297145</a></td>
-<td align="left">Sat, 10 Mar 2018 10:28:55 GMT</td>
+<td align="left">How China’s government has changed after the NPC</td>
+<td align="left">China’s removal of presidential term limits are among some of the biggest reforms outlined at NPC.</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-china-43382135" class="uri">http://www.bbc.co.uk/news/world-asia-china-43382135</a></td>
+<td align="left">Tue, 20 Mar 2018 11:07:47 GMT</td>
 </tr>
 <tr class="even">
-<td align="left">‘Disabled women are human too’</td>
-<td align="left">The official volunteers’ handbook for the Winter Games reminds readers that ‘disabled women are human too’ - so is South Korea ready to host the Paralympics?</td>
-<td align="left"><a href="http://www.bbc.co.uk/news/disability-42663127" class="uri">http://www.bbc.co.uk/news/disability-42663127</a></td>
-<td align="left">Sun, 11 Mar 2018 01:02:24 GMT</td>
+<td align="left">China’s anti-corruption campaign expands with new agency</td>
+<td align="left">It will supervise millions of civil servants - but critics call it a “systemic threat to human rights”.</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-china-43453769" class="uri">http://www.bbc.co.uk/news/world-asia-china-43453769</a></td>
+<td align="left">Tue, 20 Mar 2018 12:33:46 GMT</td>
 </tr>
 <tr class="odd">
-<td align="left">North Korea-Trump talks in 400 words</td>
-<td align="left">A very brief guide to a breakthrough day in the North Korean issue.</td>
-<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-43342337" class="uri">http://www.bbc.co.uk/news/world-asia-43342337</a></td>
-<td align="left">Fri, 09 Mar 2018 08:59:57 GMT</td>
+<td align="left">The Kashmiri property rows that date back to British India</td>
+<td align="left">Families are still fighting to prove they own property lost when British India was partitioned.</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-india-42820910" class="uri">http://www.bbc.co.uk/news/world-asia-india-42820910</a></td>
+<td align="left">Tue, 20 Mar 2018 01:25:40 GMT</td>
 </tr>
 <tr class="even">
-<td align="left">Talking to Kim: The gamble of the century</td>
-<td align="left">Talking to North Korea could make heroes of the US and South Korean leaders, or be a catastrophic mistake.</td>
-<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-43334320" class="uri">http://www.bbc.co.uk/news/world-asia-43334320</a></td>
-<td align="left">Fri, 09 Mar 2018 04:03:29 GMT</td>
+<td align="left">The man who has Xi’s ear on China’s economy</td>
+<td align="left">One of President Xi’s closest advisers takes control of China’s economic policies and financial issues.</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/business-43251862" class="uri">http://www.bbc.co.uk/news/business-43251862</a></td>
+<td align="left">Mon, 19 Mar 2018 08:02:23 GMT</td>
 </tr>
 <tr class="odd">
-<td align="left">Korea talks: Kim Jong-un’s touching concern for his Southern counterpart</td>
-<td align="left">The North Korean leader quips that Moon Jae-in won’t be woken early by any more missile tests.</td>
-<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-43343366" class="uri">http://www.bbc.co.uk/news/world-asia-43343366</a></td>
-<td align="left">Fri, 09 Mar 2018 11:35:23 GMT</td>
+<td align="left">Speaking up about rape in conservative Kazakhstan</td>
+<td align="left">In Kazakhstan, victims say relatives and police tell them to stay silent or “leave it with Allah”.</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-43247005" class="uri">http://www.bbc.co.uk/news/world-asia-43247005</a></td>
+<td align="left">Sun, 18 Mar 2018 00:29:19 GMT</td>
+</tr>
+<tr class="even">
+<td align="left">National Geographic apology: ‘We were anticipated to be a dying race’</td>
+<td align="left">Aboriginal Australians reflect on National Geographic’s racism in 1916, and public discourse today.</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/world-australia-43410584" class="uri">http://www.bbc.co.uk/news/world-australia-43410584</a></td>
+<td align="left">Sat, 17 Mar 2018 16:05:13 GMT</td>
+</tr>
+<tr class="odd">
+<td align="left">Have smaller weddings with less food, Uzbeks told</td>
+<td align="left">Weddings in Uzbekistan are lavish affairs, some with motorcades and hundreds of guests.</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-43429433" class="uri">http://www.bbc.co.uk/news/world-asia-43429433</a></td>
+<td align="left">Fri, 16 Mar 2018 16:30:03 GMT</td>
+</tr>
+<tr class="even">
+<td align="left">The rock band manager who swapped success for kangaroos</td>
+<td align="left">Rae Harvey wrangled some of Australia’s top music acts - now she’s handling vulnerable marsupials.</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/world-australia-43381511" class="uri">http://www.bbc.co.uk/news/world-australia-43381511</a></td>
+<td align="left">Fri, 16 Mar 2018 15:45:07 GMT</td>
+</tr>
+<tr class="odd">
+<td align="left">Who does the US have left to talk to N Korea?</td>
+<td align="left">After Tillerson’s quick exit - who will be part of high-stakes talks with North Korea?</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/world-us-canada-43436038" class="uri">http://www.bbc.co.uk/news/world-us-canada-43436038</a></td>
+<td align="left">Fri, 16 Mar 2018 22:06:45 GMT</td>
+</tr>
+<tr class="even">
+<td align="left">Nerve agent attacks: How Malaysia responded compared to the UK</td>
+<td align="left">Both the UK and Malaysia faced nerve agent attacks on their soil, but they responded very differently.</td>
+<td align="left"><a href="http://www.bbc.co.uk/news/world-asia-43418069" class="uri">http://www.bbc.co.uk/news/world-asia-43418069</a></td>
+<td align="left">Fri, 16 Mar 2018 04:23:51 GMT</td>
 </tr>
 </tbody>
 </table>
