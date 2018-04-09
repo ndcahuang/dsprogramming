@@ -1,0 +1,66 @@
+---
+title: "Data Visualization using R Word Cloud"
+author: "Chung-An Huang"
+date: "April 7, 2018"
+output: html_document
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+> A data visualization project using data retrieved from a facebook public post
+
+```{r message=FALSE, warning=FALSE}
+#Load required packages
+library(jsonlite)
+library(tm)
+library(tmcn)
+library(wordcloud)
+```
+###Extraction
+```{r echo=FALSE}
+#Obtain raw data in json format using Facebook Graph API
+fb_post <- fromJSON("https://graph.facebook.com/v2.12/136845026417486_1267145630054081/comments?pretty=0&limit=5000&after=MTUxNwZDZD&access_token=EAACEdEose0cBACOMEX5hxB371sSqYHDB22QLtKGK9uaJxZAeFdiAv219i002W8rUoOQCHEZByVOFZCIs5JM2yOFhN0VFCPOgG9asOGAEZCAKVBDdZBci1ZBWMLeZCZCSzwQeINHHZBccbgF2DpndxDjmXZCZAHbEPN2gmFKVrjB0Cpz3eZAZB7sW9Id6xP0FxBwLfRxudbF7neffaKwZDZD")
+```
+
+```{r}
+#Extract only data of interest, i.e., comments from the post
+fb_comment <- fb_post$data$message
+```
+###Data Cleansing and Transformation
+```{r}
+#Store data in Corpus database and perform neccessary data cleansing
+comment_db <- Corpus(VectorSource(fb_comment), list(language = NA))
+comment_db <- tm_map(comment_db, stripWhitespace)
+comment_db <- tm_map(comment_db, removePunctuation)
+comment_db <- tm_map(comment_db, removeNumbers)
+comment_db <- tm_map(comment_db, function(word) {gsub("[A-Za-z0-9]", "", word)})
+comment_db <- tm_map(comment_db, segmentCN, nature = TRUE)
+comment_db <- tm_map(comment_db, function(sentence) {
+  noun <- lapply(sentence, function(w) {
+    w[names(w) == "n"]
+  })
+  unlist(noun)
+})
+```
+###Load and Aggregate
+```{r warning=FALSE}
+#Convert data back to vector and aggregate on extracted words
+comment_db <- Corpus(VectorSource(comment_db))
+
+tdm <- TermDocumentMatrix(comment_db, control = list(wordLengths = c(2, Inf)))
+
+m1 <- as.matrix(tdm)
+v <- sort(rowSums(m1), decreasing = TRUE)
+d <- data.frame(word = names(v), freq = v)
+```
+###Visualization
+```{r warning=FALSE}
+#Visualize result using word cloud
+par(family=("Heiti TC Light"))
+
+wordcloud(d$word, d$freq, min.freq = 10, random.order = F,
+          ordered.colors = F,
+          colors = rainbow(length(row.names(m1))))
+```
+
