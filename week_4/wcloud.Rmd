@@ -8,7 +8,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-> A data visualization project using data retrieved from a facebook public post
+> A data visualization project using data retrieved from Dr. Ko Wen-Je(柯文哲)'s facebook page
 
 ```{r message=FALSE, warning=FALSE}
 #Load required packages
@@ -20,7 +20,7 @@ library(wordcloud)
 ###Extraction
 ```{r echo=FALSE}
 #Obtain raw data in json format using Facebook Graph API
-fb_post <- fromJSON("https://graph.facebook.com/v2.12/136845026417486_1267145630054081/comments?pretty=0&limit=5000&after=MTUxNwZDZD&access_token=EAACEdEose0cBACOMEX5hxB371sSqYHDB22QLtKGK9uaJxZAeFdiAv219i002W8rUoOQCHEZByVOFZCIs5JM2yOFhN0VFCPOgG9asOGAEZCAKVBDdZBci1ZBWMLeZCZCSzwQeINHHZBccbgF2DpndxDjmXZCZAHbEPN2gmFKVrjB0Cpz3eZAZB7sW9Id6xP0FxBwLfRxudbF7neffaKwZDZD")
+fb_post <- fromJSON("https://graph.facebook.com/v3.0/136845026417486_1267145630054081/comments?pretty=0&limit=5000&after=MTUxNwZDZD&access_token=EAACEdEose0cBADzvpDpskZA3fLURDBSwzQfxPTeIky46xlaSYmhPtJIyImf9kSEirTSd8ROPSZBgrlx2As5kJuaikBollZB4fvK8HxtaNIzcc2WBh8PI1ZARKnQgPdKd4Pa8dq10fBPDzBF7WyOnD7gDji153qjTILkAa0M3nfzyqaFxXhLu9XpxQijzFhLFPJntXFEDUgZDZD")
 ```
 
 ```{r}
@@ -57,10 +57,8 @@ d <- data.frame(word = names(v), freq = v)
 ###Visualization
 ```{r warning=FALSE}
 #Visualize result using word cloud
-par(family=("Heiti TC Light"))
-
-wordcloud(d$word, d$freq, min.freq = 10, random.order = F,
+par(family = 'STHeiti')
+wordcloud(d$word, d$freq, min.freq = 5, random.order = F,
           ordered.colors = F,
-          colors = rainbow(length(row.names(m1))))
+          colors = rainbow(length(row.names(m1))), family="Heiti TC Light", scale = c(8, .2))
 ```
-
