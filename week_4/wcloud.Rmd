@@ -60,5 +60,5 @@ d <- data.frame(word = names(v), freq = v)
 par(family = 'STHeiti')
 wordcloud(d$word, d$freq, min.freq = 5, random.order = F,
           ordered.colors = F,
-          colors = rainbow(length(row.names(m1))), family="Heiti TC Light", scale = c(8, .2))
+          colors = rainbow(length(row.names(m1))), family="Heiti TC Light", scale = c(12, .4))
 ```
