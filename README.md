@@ -19,7 +19,7 @@
 * Made markdown results accessiable through browsers
 * Link: https://ndcahuang.github.io/dsprogramming/week_3/ggp2.html
 ## [Week 4]
-* Collected ~2000 comments posted on Dr.Ko Wen-Je(柯文哲)'s facebook 
+* Collected ~2000 comments posted on Dr. Ko Wen-Je(柯文哲)'s facebook 
 page
 * Plotted word cloud with respect to words of most occurence
 * Made markdown results accessible through browsers
