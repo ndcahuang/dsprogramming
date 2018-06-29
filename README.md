@@ -25,7 +25,7 @@ page
 * Made markdown results accessible through browsers
 * Link: https://ndcahuang.github.io/dsprogramming/week_4/wcloud.html
 
-##[Week 5]
+## [Week 5]
 * Retrieved ~20 posts from Prime Minister Lee Hsien Loong's Facebook page
 * Computed TF-IDF weighting for each unique terms
 * Converted computational results to matrix and csv
