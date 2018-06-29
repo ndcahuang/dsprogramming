@@ -35,3 +35,7 @@ page
 Shot Selection"
 * Plotted multiple location details to help understand shot 
 distribution
+
+## [project 4]
+* Randomly sampled .02% of data from a warehouse of ~2.5 billion CDN records
+* Applied Apriori Algorithm to determine association between "MISS" records and 3 chosen columns
