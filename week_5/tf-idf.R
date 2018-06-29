@@ -28,3 +28,5 @@ corpus <- tm_map(corpus, function(word) {gsub("[^\x01-\x7F]", "", word)})
 #perform TF-IDF computation
 tdm = TermDocumentMatrix(corpus, control = list(weighting = weightTfIdf))
 mtx <- as.matrix(tdm)
+
+write.csv(mtx, "result.csv")
