@@ -1,0 +1,794 @@
+"","lhs","rhs","support","confidence","lift","count"
+"789","{locationstr=NRT57-C1,hr=12,device=PC}","{result0=Miss}",0.000906266183324702,0.6,2.23004250541342,42
+"777","{locationstr=NRT57-C1,hr=10,device=PC}","{result0=Miss}",0.000755221819437252,0.636363636363636,2.3651965966506,35
+"792","{locationstr=NRT57-C1,hr=13,device=PC}","{result0=Miss}",0.000733644053167616,0.618181818181818,2.29761955103201,34
+"786","{locationstr=NRT57-C1,hr=14,device=PC}","{result0=Miss}",0.00071206628689798,0.647058823529412,2.40494779995565,33
+"783","{locationstr=NRT57-C1,hr=11,device=PC}","{result0=Miss}",0.000690488520628345,0.60377358490566,2.24406792997577,32
+"740","{locationstr=NRT57-C2,hr=11,device=Generic Smartphone}","{result0=Miss}",0.000668910754358709,0.596153846153846,2.21574736114795,31
+"782","{locationstr=NRT20-C1,hr=11,device=PC}","{result0=Miss}",0.000625755221819437,0.617021276595745,2.29330612258827,29
+"771","{locationstr=NRT57-C1,hr=8,device=PC}","{result0=Miss}",0.000604177455549801,0.756756756756757,2.81266622304396,28
+"788","{locationstr=NRT20-C1,hr=12,device=PC}","{result0=Miss}",0.000582599689280166,0.6,2.23004250541342,27
+"764","{locationstr=NRT57-C1,hr=16,device=PC}","{result0=Miss}",0.00056102192301053,0.65,2.41587938086454,26
+"767","{locationstr=NRT57-C1,hr=7,device=PC}","{result0=Miss}",0.00056102192301053,0.565217391304348,2.10076467901265,26
+"710","{locationstr=NRT57-C2,hr=2,device=Generic Smartphone}","{result0=Miss}",0.000496288624201623,0.696969696969697,2.59045341537923,23
+"760","{locationstr=NRT57-C1,hr=6,device=PC}","{result0=Miss}",0.000496288624201623,0.605263157894737,2.2496042817767,23
+"707","{locationstr=NRT57-C1,hr=17,device=PC}","{result0=Miss}",0.000474710857931987,0.647058823529412,2.40494779995565,22
+"776","{locationstr=NRT51,hr=11,device=PC}","{result0=Miss}",0.000453133091662351,0.538461538461538,2.00132019716589,21
+"791","{locationstr=NRT20-C1,hr=13,device=PC}","{result0=Miss}",0.000453133091662351,0.567567567567568,2.10949966728297,21
+"729","{locationstr=NRT57-C2,hr=7,device=PC}","{result0=Miss}",0.000431555325392715,0.869565217391304,3.23194566001946,20
+"741","{locationstr=NRT57-C2,hr=14,device=PC}","{result0=Miss}",0.000431555325392715,0.714285714285714,2.65481250644455,20
+"773","{locationstr=NRT20-C1,hr=9,device=PC}","{result0=Miss}",0.000431555325392715,0.606060606060606,2.25256818728629,20
+"744","{locationstr=NRT57-C2,hr=12,device=PC}","{result0=Miss}",0.00040997755912308,0.678571428571429,2.52207188112233,19
+"759","{locationstr=NRT20-C1,hr=6,device=PC}","{result0=Miss}",0.00040997755912308,0.703703703703704,2.61548195079352,19
+"781","{locationstr=NRT20,hr=14,device=PC}","{result0=Miss}",0.00040997755912308,0.542857142857143,2.01765750489786,19
+"785","{locationstr=NRT20-C1,hr=14,device=PC}","{result0=Miss}",0.000388399792853444,0.580645161290323,2.15810565040009,18
+"742","{locationstr=NRT57-C2,hr=14,device=iPhone}","{result0=Miss}",0.000366822026583808,0.53125,1.97451680166814,17
+"714","{locationstr=NRT57-C1,hr=2,device=PC}","{result0=Miss}",0.000345244260314172,0.761904761904762,2.83180000687419,16
+"732","{locationstr=NRT57-C2,hr=9,device=PC}","{result0=Miss}",0.000345244260314172,0.695652173913043,2.58555652801557,16
+"754","{locationstr=NRT57-C1,hr=3,device=PC}","{result0=Miss}",0.000345244260314172,0.64,2.37871200577432,16
+"766","{locationstr=NRT20-C1,hr=7,device=PC}","{result0=Miss}",0.000345244260314172,0.64,2.37871200577432,16
+"770","{locationstr=NRT20-C1,hr=8,device=PC}","{result0=Miss}",0.000345244260314172,0.516129032258065,1.91831613368897,16
+"722","{locationstr=NRT57-C2,hr=3,device=Generic Smartphone}","{result0=Miss}",0.000323666494044537,0.5,1.85836875451119,15
+"724","{locationstr=NRT57-C2,hr=5,device=Generic Smartphone}","{result0=Miss}",0.000323666494044537,0.5,1.85836875451119,15
+"731","{locationstr=NRT57-C2,hr=8,device=PC}","{result0=Miss}",0.000323666494044537,0.789473684210526,2.93426645449135,15
+"737","{locationstr=NRT57-C2,hr=11,device=PC}","{result0=Miss}",0.000323666494044537,0.75,2.78755313176678,15
+"749","{locationstr=NRT20-C1,hr=4,device=PC}","{result0=Miss}",0.000323666494044537,0.652173913043478,2.42395924501459,15
+"763","{locationstr=NRT20-C1,hr=16,device=PC}","{result0=Miss}",0.000323666494044537,0.535714285714286,1.99110937983342,15
+"705","{locationstr=NRT57-C2,hr=17,device=PC}","{result0=Miss}",0.000302088727774901,0.823529411764706,3.06084265448901,14
+"726","{locationstr=NRT57-C2,hr=16,device=PC}","{result0=Miss}",0.000302088727774901,0.7,2.60171625631566,14
+"748","{locationstr=NRT57-C2,hr=13,device=PC}","{result0=Miss}",0.000302088727774901,0.583333333333333,2.16809688026305,14
+"750","{locationstr=NRT57-C1,hr=4,device=PC}","{result0=Miss}",0.000302088727774901,0.666666666666667,2.47782500601492,14
+"531","{locationstr=NRT57-C1,hr=15,device=iOS-Device}","{result0=Miss}",0.000280510961505265,0.65,2.41587938086454,13
+"538","{locationstr=NRT57-C1,hr=12,device=iOS-Device}","{result0=Miss}",0.000280510961505265,0.764705882352941,2.84221103631123,13
+"612","{locationstr=NRT12,hr=8,device=SSPKSample/1.0}","{result0=Miss}",0.000280510961505265,0.764705882352941,2.84221103631123,13
+"690","{locationstr=NRT57-C2,hr=0,device=PC}","{result0=Miss}",0.000280510961505265,0.8125,3.01984922608068,13
+"720","{locationstr=NRT57-C2,hr=3,device=PC}","{result0=Miss}",0.000280510961505265,0.722222222222222,2.68431042318283,13
+"730","{locationstr=NRT57-C2,hr=7,device=Generic Smartphone}","{result0=Miss}",0.000280510961505265,0.565217391304348,2.10076467901265,13
+"746","{locationstr=NRT57-C2,hr=12,device=iPhone}","{result0=Miss}",0.000280510961505265,0.541666666666667,2.01323281738712,13
+"757","{locationstr=NRT57-C1,hr=5,device=PC}","{result0=Miss}",0.000280510961505265,0.541666666666667,2.01323281738712,13
+"703","{locationstr=NRT57-C1,hr=1,device=PC}","{result0=Miss}",0.000258933195235629,0.75,2.78755313176678,12
+"723","{locationstr=NRT57-C2,hr=5,device=PC}","{result0=Miss}",0.000258933195235629,0.6,2.23004250541342,12
+"728","{locationstr=NRT57-C2,hr=16,device=iPhone}","{result0=Miss}",0.000258933195235629,0.666666666666667,2.47782500601492,12
+"734","{locationstr=NRT57-C2,hr=10,device=PC}","{result0=Miss}",0.000258933195235629,0.631578947368421,2.34741316359308,12
+"755","{locationstr=NRT52,hr=5,device=PC}","{result0=Miss}",0.000258933195235629,0.5,1.85836875451119,12
+"762","{locationstr=NRT20,hr=16,device=PC}","{result0=Miss}",0.000258933195235629,0.521739130434783,1.93916739601167,12
+"768","{locationstr=NRT20-C1,hr=7,device=iPad}","{result0=Miss}",0.000258933195235629,0.521739130434783,1.93916739601167,12
+"779","{locationstr=NRT20-C1,hr=15,device=PC}","{result0=Miss}",0.000258933195235629,0.857142857142857,3.18577500773347,12
+"426","{locationstr=NRT57-C1,hr=11,device=okhttp/3.9.1}","{result0=Miss}",0.000237355428965993,0.785714285714286,2.92029375708901,11
+"456","{locationstr=NRT57-C1,hr=22,device=iOS-Device}","{result0=Miss}",0.000237355428965993,0.578947368421053,2.15179539996032,11
+"609","{locationstr=NRT12,hr=6,device=SSPKSample/1.0}","{result0=Miss}",0.000237355428965993,0.785714285714286,2.92029375708901,11
+"679","{locationstr=NRT57-C2,hr=23,device=iPhone}","{result0=Miss}",0.000237355428965993,0.733333333333333,2.72560750661641,11
+"698","{locationstr=NRT57-C1,hr=0,device=PC}","{result0=Miss}",0.000237355428965993,0.578947368421053,2.15179539996032,11
+"700","{locationstr=NRT57-C2,hr=1,device=PC}","{result0=Miss}",0.000237355428965993,0.846153846153846,3.14493173840355,11
+"430","{locationstr=NRT57-C1,hr=12,device=okhttp/3.9.1}","{result0=Miss}",0.000215777662696358,0.666666666666667,2.47782500601492,10
+"509","{locationstr=NRT57-C1,hr=16,device=iOS-Device}","{result0=Miss}",0.000215777662696358,0.769230769230769,2.85902885309414,10
+"563","{locationstr=NRT57-C1,hr=19,device=PC}","{result0=Miss}",0.000215777662696358,0.666666666666667,2.47782500601492,10
+"614","{locationstr=NRT12,hr=13,device=SSPKSample/1.0}","{result0=Miss}",0.000215777662696358,0.714285714285714,2.65481250644455,10
+"655","{locationstr=NRT20,hr=10,device=SSPKSample/1.0}","{result0=Miss}",0.000215777662696358,0.555555555555556,2.0648541716791,10
+"662","{locationstr=NRT20,hr=12,device=SSPKSample/1.0}","{result0=Miss}",0.000215777662696358,0.666666666666667,2.47782500601492,10
+"675","{locationstr=NRT57-C1,hr=22,device=PC}","{result0=Miss}",0.000215777662696358,0.625,2.32296094313898,10
+"686","{locationstr=NRT12-C1,hr=15,device=Generic Smartphone}","{result0=Miss}",0.000215777662696358,0.5,1.85836875451119,10
+"687","{locationstr=NRT12-C1,hr=14,device=PC}","{result0=Miss}",0.000215777662696358,0.5,1.85836875451119,10
+"697","{locationstr=NRT20-C1,hr=0,device=PC}","{result0=Miss}",0.000215777662696358,0.666666666666667,2.47782500601492,10
+"709","{locationstr=NRT57-C2,hr=2,device=PC}","{result0=Miss}",0.000215777662696358,0.833333333333333,3.09728125751865,10
+"717","{locationstr=NRT12,hr=10,device=PC}","{result0=Miss}",0.000215777662696358,0.588235294117647,2.18631618177787,10
+"745","{locationstr=NRT57-C2,hr=12,device=iPad}","{result0=Miss}",0.000215777662696358,0.555555555555556,2.0648541716791,10
+"345","{locationstr=NRT57-C1,hr=23,device=okhttp/3.9.1}","{result0=Miss}",0.000194199896426722,0.9,3.34506375812014,9
+"551","{locationstr=NRT57-C1,hr=20,device=PC}","{result0=Miss}",0.000194199896426722,0.6,2.23004250541342,9
+"592","{locationstr=NRT20,hr=0,device=SSPKSample/1.0}","{result0=Miss}",0.000194199896426722,0.9,3.34506375812014,9
+"608","{locationstr=NRT12,hr=5,device=SSPKSample/1.0}","{result0=Miss}",0.000194199896426722,0.642857142857143,2.3893312558001,9
+"619","{locationstr=NRT57-C2,hr=8,device=SSPKSample/1.0}","{result0=Miss}",0.000194199896426722,0.75,2.78755313176678,9
+"681","{locationstr=NRT57-C1,hr=23,device=PC}","{result0=Miss}",0.000194199896426722,0.642857142857143,2.3893312558001,9
+"719","{locationstr=NRT57-C2,hr=4,device=PC}","{result0=Miss}",0.000194199896426722,0.529411764705882,1.96768456360008,9
+"736","{locationstr=NRT57-C2,hr=15,device=PC}","{result0=Miss}",0.000194199896426722,0.642857142857143,2.3893312558001,9
+"756","{locationstr=NRT20-C1,hr=5,device=PC}","{result0=Miss}",0.000194199896426722,0.818181818181818,3.04096705283649,9
+"411","{locationstr=NRT51,hr=14,device=okhttp/3.9.1}","{result0=Miss}",0.000172622130157086,1,3.71673750902238,8
+"442","{locationstr=NRT57-C1,hr=19,device=iOS-Device}","{result0=Miss}",0.000172622130157086,0.615384615384615,2.28722308247531,8
+"445","{locationstr=NRT20,hr=21,device=iOS-Device}","{result0=Miss}",0.000172622130157086,0.727272727272727,2.70308182474355,8
+"540","{locationstr=NRT20-C1,hr=13,device=iOS-Device}","{result0=Miss}",0.000172622130157086,0.888888888888889,3.30376667468656,8
+"548","{locationstr=NRT20,hr=20,device=PC}","{result0=Miss}",0.000172622130157086,0.533333333333333,1.98226000481193,8
+"572","{locationstr=NRT20-C1,hr=21,device=PC}","{result0=Miss}",0.000172622130157086,0.888888888888889,3.30376667468656,8
+"573","{locationstr=NRT57-C1,hr=21,device=PC}","{result0=Miss}",0.000172622130157086,0.533333333333333,1.98226000481193,8
+"611","{locationstr=NRT12,hr=7,device=SSPKSample/1.0}","{result0=Miss}",0.000172622130157086,0.571428571428571,2.12385000515564,8
+"613","{locationstr=NRT12,hr=11,device=SSPKSample/1.0}","{result0=Miss}",0.000172622130157086,0.666666666666667,2.47782500601492,8
+"645","{locationstr=NRT20,hr=9,device=SSPKSample/1.0}","{result0=Miss}",0.000172622130157086,0.571428571428571,2.12385000515564,8
+"693","{locationstr=NRT53,hr=0,device=PC}","{result0=Miss}",0.000172622130157086,0.727272727272727,2.70308182474355,8
+"725","{locationstr=NRT57-C2,hr=6,device=PC}","{result0=Miss}",0.000172622130157086,0.727272727272727,2.70308182474355,8
+"739","{locationstr=NRT57-C2,hr=11,device=iPhone}","{result0=Miss}",0.000172622130157086,0.615384615384615,2.28722308247531,8
+"338","{locationstr=NRT20,hr=22,device=okhttp/3.9.1}","{result0=Miss}",0.00015104436388745,0.777777777777778,2.89079584035074,7
+"340","{locationstr=NRT57-C1,hr=22,device=okhttp/3.9.1}","{result0=Miss}",0.00015104436388745,0.583333333333333,2.16809688026305,7
+"381","{locationstr=NRT51,hr=3,device=okhttp/3.9.1}","{result0=Miss}",0.00015104436388745,0.875,3.25214532039458,7
+"502","{locationstr=NRT57-C1,hr=5,device=iOS-Device}","{result0=Miss}",0.00015104436388745,0.538461538461538,2.00132019716589,7
+"513","{locationstr=NRT57-C1,hr=7,device=iOS-Device}","{result0=Miss}",0.00015104436388745,0.636363636363636,2.3651965966506,7
+"527","{locationstr=NRT52,hr=10,device=iOS-Device}","{result0=Miss}",0.00015104436388745,0.538461538461538,2.00132019716589,7
+"528","{locationstr=NRT57-C1,hr=10,device=iOS-Device}","{result0=Miss}",0.00015104436388745,0.583333333333333,2.16809688026305,7
+"638","{locationstr=NRT20,hr=7,device=SSPKSample/1.0}","{result0=Miss}",0.00015104436388745,0.5,1.85836875451119,7
+"692","{locationstr=NRT57-C2,hr=0,device=Generic Smartphone}","{result0=Miss}",0.00015104436388745,0.5,1.85836875451119,7
+"696","{locationstr=NRT52,hr=0,device=PC}","{result0=Miss}",0.00015104436388745,0.538461538461538,2.00132019716589,7
+"702","{locationstr=NRT52,hr=1,device=PC}","{result0=Miss}",0.00015104436388745,0.5,1.85836875451119,7
+"711","{locationstr=NRT20,hr=2,device=PC}","{result0=Miss}",0.00015104436388745,0.875,3.25214532039458,7
+"713","{locationstr=NRT20-C1,hr=2,device=PC}","{result0=Miss}",0.00015104436388745,0.538461538461538,2.00132019716589,7
+"735","{locationstr=NRT57-C2,hr=10,device=iPad}","{result0=Miss}",0.00015104436388745,0.777777777777778,2.89079584035074,7
+"738","{locationstr=NRT57-C2,hr=11,device=iPad}","{result0=Miss}",0.00015104436388745,0.583333333333333,2.16809688026305,7
+"378","{locationstr=NRT52,hr=4,device=okhttp/3.9.1}","{result0=Miss}",0.000129466597617815,1,3.71673750902238,6
+"386","{locationstr=NRT57-C1,hr=5,device=okhttp/3.9.1}","{result0=Miss}",0.000129466597617815,1,3.71673750902238,6
+"422","{locationstr=NRT20,hr=12,device=okhttp/3.9.1}","{result0=Miss}",0.000129466597617815,1,3.71673750902238,6
+"425","{locationstr=NRT20-C1,hr=11,device=okhttp/3.9.1}","{result0=Miss}",0.000129466597617815,1,3.71673750902238,6
+"448","{locationstr=NRT57-C1,hr=21,device=iOS-Device}","{result0=Miss}",0.000129466597617815,0.5,1.85836875451119,6
+"466","{locationstr=NRT20-C1,hr=0,device=iOS-Device}","{result0=Miss}",0.000129466597617815,0.857142857142857,3.18577500773347,6
+"470","{locationstr=NRT20,hr=1,device=iOS-Device}","{result0=Miss}",0.000129466597617815,1,3.71673750902238,6
+"526","{locationstr=NRT51,hr=13,device=iOS-Device}","{result0=Miss}",0.000129466597617815,0.545454545454545,2.02731136855766,6
+"626","{locationstr=NRT20,hr=4,device=SSPKSample/1.0}","{result0=Miss}",0.000129466597617815,0.6,2.23004250541342,6
+"657","{locationstr=NRT57-C1,hr=10,device=SSPKSample/1.0}","{result0=Miss}",0.000129466597617815,0.857142857142857,3.18577500773347,6
+"658","{locationstr=NRT20,hr=15,device=SSPKSample/1.0}","{result0=Miss}",0.000129466597617815,0.75,2.78755313176678,6
+"661","{locationstr=NRT20,hr=14,device=SSPKSample/1.0}","{result0=Miss}",0.000129466597617815,0.6,2.23004250541342,6
+"664","{locationstr=NRT52,hr=14,device=SSPKSample/1.0}","{result0=Miss}",0.000129466597617815,0.75,2.78755313176678,6
+"669","{locationstr=NRT20-C1,hr=18,device=PC}","{result0=Miss}",0.000129466597617815,0.5,1.85836875451119,6
+"753","{locationstr=NRT20-C1,hr=3,device=PC}","{result0=Miss}",0.000129466597617815,0.5,1.85836875451119,6
+"404","{locationstr=NRT53,hr=15,device=okhttp/3.9.1}","{result0=Miss}",0.000107888831348179,0.714285714285714,2.65481250644455,5
+"412","{locationstr=NRT51,hr=12,device=okhttp/3.9.1}","{result0=Miss}",0.000107888831348179,0.833333333333333,3.09728125751865,5
+"480","{locationstr=NRT12,hr=15,device=iOS-Device}","{result0=Miss}",0.000107888831348179,0.625,2.32296094313898,5
+"489","{locationstr=NRT57-C2,hr=13,device=iOS-Device}","{result0=Miss}",0.000107888831348179,0.555555555555556,2.0648541716791,5
+"494","{locationstr=NRT57-C1,hr=4,device=iOS-Device}","{result0=Miss}",0.000107888831348179,0.555555555555556,2.0648541716791,5
+"512","{locationstr=NRT52,hr=7,device=iOS-Device}","{result0=Miss}",0.000107888831348179,1,3.71673750902238,5
+"558","{locationstr=NRT57-C2,hr=19,device=PC}","{result0=Miss}",0.000107888831348179,1,3.71673750902238,5
+"561","{locationstr=NRT20,hr=19,device=PC}","{result0=Miss}",0.000107888831348179,0.5,1.85836875451119,5
+"570","{locationstr=NRT51,hr=21,device=PC}","{result0=Miss}",0.000107888831348179,0.5,1.85836875451119,5
+"590","{locationstr=NRT57-C2,hr=0,device=SSPKSample/1.0}","{result0=Miss}",0.000107888831348179,0.714285714285714,2.65481250644455,5
+"595","{locationstr=NRT12,hr=1,device=SSPKSample/1.0}","{result0=Miss}",0.000107888831348179,0.5,1.85836875451119,5
+"599","{locationstr=NRT20,hr=1,device=SSPKSample/1.0}","{result0=Miss}",0.000107888831348179,0.555555555555556,2.0648541716791,5
+"615","{locationstr=NRT57-C2,hr=4,device=SSPKSample/1.0}","{result0=Miss}",0.000107888831348179,1,3.71673750902238,5
+"630","{locationstr=NRT52,hr=5,device=SSPKSample/1.0}","{result0=Miss}",0.000107888831348179,0.625,2.32296094313898,5
+"683","{locationstr=NRT12-C1,hr=5,device=PC}","{result0=Miss}",0.000107888831348179,0.555555555555556,2.0648541716791,5
+"694","{locationstr=NRT51,hr=0,device=PC}","{result0=Miss}",0.000107888831348179,0.5,1.85836875451119,5
+"695","{locationstr=NRT20,hr=0,device=PC}","{result0=Miss}",0.000107888831348179,0.5,1.85836875451119,5
+"778","{locationstr=NRT20-C1,hr=10,device=STW2000}","{result0=Miss}",0.000107888831348179,1,3.71673750902238,5
+"87","{locationstr=TPE50,hr=13,device=PC}","{result0=Miss}",8.63110650785431e-05,1,3.71673750902238,4
+"205","{locationstr=NRT57-C1,hr=9,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",8.63110650785431e-05,1,3.71673750902238,4
+"314","{locationstr=NRT57-C1,hr=15,device=-}","{result0=Miss}",8.63110650785431e-05,0.571428571428571,2.12385000515564,4
+"326","{locationstr=NRT57-C1,hr=19,device=okhttp/3.9.1}","{result0=Miss}",8.63110650785431e-05,0.8,2.9733900072179,4
+"332","{locationstr=NRT53,hr=18,device=okhttp/3.9.1}","{result0=Miss}",8.63110650785431e-05,0.8,2.9733900072179,4
+"333","{locationstr=NRT20,hr=18,device=okhttp/3.9.1}","{result0=Miss}",8.63110650785431e-05,0.8,2.9733900072179,4
+"339","{locationstr=NRT20-C1,hr=22,device=okhttp/3.9.1}","{result0=Miss}",8.63110650785431e-05,0.8,2.9733900072179,4
+"355","{locationstr=NRT57-C1,hr=1,device=okhttp/3.9.1}","{result0=Miss}",8.63110650785431e-05,1,3.71673750902238,4
+"380","{locationstr=NRT57-C1,hr=4,device=okhttp/3.9.1}","{result0=Miss}",8.63110650785431e-05,0.571428571428571,2.12385000515564,4
+"398","{locationstr=NRT51,hr=8,device=okhttp/3.9.1}","{result0=Miss}",8.63110650785431e-05,1,3.71673750902238,4
+"399","{locationstr=NRT20,hr=8,device=okhttp/3.9.1}","{result0=Miss}",8.63110650785431e-05,1,3.71673750902238,4
+"416","{locationstr=NRT20-C1,hr=10,device=okhttp/3.9.1}","{result0=Miss}",8.63110650785431e-05,0.8,2.9733900072179,4
+"417","{locationstr=NRT57-C1,hr=10,device=okhttp/3.9.1}","{result0=Miss}",8.63110650785431e-05,0.666666666666667,2.47782500601492,4
+"420","{locationstr=NRT20,hr=11,device=okhttp/3.9.1}","{result0=Miss}",8.63110650785431e-05,0.571428571428571,2.12385000515564,4
+"424","{locationstr=NRT52,hr=11,device=okhttp/3.9.1}","{result0=Miss}",8.63110650785431e-05,0.8,2.9733900072179,4
+"427","{locationstr=NRT52,hr=14,device=okhttp/3.9.1}","{result0=Miss}",8.63110650785431e-05,1,3.71673750902238,4
+"428","{locationstr=NRT52,hr=12,device=okhttp/3.9.1}","{result0=Miss}",8.63110650785431e-05,1,3.71673750902238,4
+"429","{locationstr=NRT20-C1,hr=12,device=okhttp/3.9.1}","{result0=Miss}",8.63110650785431e-05,0.666666666666667,2.47782500601492,4
+"453","{locationstr=NRT20,hr=22,device=iOS-Device}","{result0=Miss}",8.63110650785431e-05,1,3.71673750902238,4
+"476","{locationstr=NRT57-C1,hr=17,device=iOS-Device}","{result0=Miss}",8.63110650785431e-05,0.5,1.85836875451119,4
+"493","{locationstr=NRT20-C1,hr=4,device=iOS-Device}","{result0=Miss}",8.63110650785431e-05,1,3.71673750902238,4
+"495","{locationstr=NRT51,hr=3,device=iOS-Device}","{result0=Miss}",8.63110650785431e-05,0.8,2.9733900072179,4
+"505","{locationstr=NRT57-C1,hr=6,device=iOS-Device}","{result0=Miss}",8.63110650785431e-05,0.666666666666667,2.47782500601492,4
+"511","{locationstr=NRT51,hr=7,device=iOS-Device}","{result0=Miss}",8.63110650785431e-05,0.666666666666667,2.47782500601492,4
+"516","{locationstr=NRT20-C1,hr=8,device=iOS-Device}","{result0=Miss}",8.63110650785431e-05,0.666666666666667,2.47782500601492,4
+"518","{locationstr=NRT51,hr=9,device=iOS-Device}","{result0=Miss}",8.63110650785431e-05,0.666666666666667,2.47782500601492,4
+"521","{locationstr=NRT53,hr=10,device=iOS-Device}","{result0=Miss}",8.63110650785431e-05,0.666666666666667,2.47782500601492,4
+"546","{locationstr=NRT53,hr=20,device=PC}","{result0=Miss}",8.63110650785431e-05,0.5,1.85836875451119,4
+"547","{locationstr=NRT51,hr=20,device=PC}","{result0=Miss}",8.63110650785431e-05,0.5,1.85836875451119,4
+"562","{locationstr=NRT20-C1,hr=19,device=PC}","{result0=Miss}",8.63110650785431e-05,0.8,2.9733900072179,4
+"566","{locationstr=NRT20,hr=21,device=SSPKSample/1.0}","{result0=Miss}",8.63110650785431e-05,1,3.71673750902238,4
+"581","{locationstr=NRT20,hr=22,device=SSPKSample/1.0}","{result0=Miss}",8.63110650785431e-05,0.571428571428571,2.12385000515564,4
+"588","{locationstr=NRT12-C1,hr=6,device=SSPKSample/1.0}","{result0=Miss}",8.63110650785431e-05,0.8,2.9733900072179,4
+"610","{locationstr=NRT12,hr=16,device=SSPKSample/1.0}","{result0=Miss}",8.63110650785431e-05,0.5,1.85836875451119,4
+"617","{locationstr=NRT57-C2,hr=6,device=SSPKSample/1.0}","{result0=Miss}",8.63110650785431e-05,1,3.71673750902238,4
+"622","{locationstr=NRT57-C2,hr=14,device=SSPKSample/1.0}","{result0=Miss}",8.63110650785431e-05,0.8,2.9733900072179,4
+"663","{locationstr=NRT57-C1,hr=11,device=SSPKSample/1.0}","{result0=Miss}",8.63110650785431e-05,1,3.71673750902238,4
+"670","{locationstr=NRT20-C1,hr=18,device=iPad}","{result0=Miss}",8.63110650785431e-05,0.5,1.85836875451119,4
+"672","{locationstr=NRT12,hr=22,device=PC}","{result0=Miss}",8.63110650785431e-05,0.571428571428571,2.12385000515564,4
+"677","{locationstr=NRT57-C2,hr=23,device=PC}","{result0=Miss}",8.63110650785431e-05,0.571428571428571,2.12385000515564,4
+"701","{locationstr=NRT57-C2,hr=1,device=iPhone}","{result0=Miss}",8.63110650785431e-05,0.5,1.85836875451119,4
+"712","{locationstr=NRT20,hr=2,device=iPad}","{result0=Miss}",8.63110650785431e-05,0.5,1.85836875451119,4
+"715","{locationstr=NRT12,hr=5,device=PC}","{result0=Miss}",8.63110650785431e-05,0.5,1.85836875451119,4
+"718","{locationstr=NRT12,hr=12,device=iPad}","{result0=Miss}",8.63110650785431e-05,0.571428571428571,2.12385000515564,4
+"727","{locationstr=NRT57-C2,hr=16,device=iPad}","{result0=Miss}",8.63110650785431e-05,0.5,1.85836875451119,4
+"769","{locationstr=NRT20-C1,hr=7,device=STW2000}","{result0=Miss}",8.63110650785431e-05,0.8,2.9733900072179,4
+"775","{locationstr=NRT53,hr=11,device=STW2000}","{result0=Miss}",8.63110650785431e-05,1,3.71673750902238,4
+"56","{locationstr=DFW3,hr=12,device=STW2000}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"80","{locationstr=NRT57-C1,hr=11,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.10.51%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"92","{locationstr=ICN51,hr=13,device=Generic Smartphone}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"105","{locationstr=NRT53,hr=6,device=BRAVIA 2015}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"145","{locationstr=HKG51,hr=5,device=Generic Smartphone}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"184","{locationstr=NRT57-C1,hr=12,device=BRAVIA 4K GB}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"216","{locationstr=NRT57-C1,hr=14,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"219","{locationstr=NRT57-C1,hr=13,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"228","{locationstr=NRT12,hr=16,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"233","{locationstr=NRT57-C1,hr=5,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"234","{locationstr=NRT52,hr=6,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"240","{locationstr=NRT52,hr=8,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"251","{locationstr=NRT57-C1,hr=11,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",6.47332988089073e-05,0.75,2.78755313176678,3
+"256","{locationstr=NRT57-C1,hr=21,device=okhttp/3.9.0}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"281","{locationstr=NRT20-C1,hr=10,device=okhttp/3.9.0}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"282","{locationstr=NRT57-C1,hr=10,device=okhttp/3.9.0}","{result0=Miss}",6.47332988089073e-05,0.75,2.78755313176678,3
+"284","{locationstr=NRT57-C1,hr=14,device=okhttp/3.9.0}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"288","{locationstr=NRT20,hr=19,device=-}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"292","{locationstr=NRT12-C1,hr=9,device=-}","{result0=Miss}",6.47332988089073e-05,0.5,1.85836875451119,3
+"297","{locationstr=NRT57-C1,hr=2,device=-}","{result0=Miss}",6.47332988089073e-05,0.75,2.78755313176678,3
+"305","{locationstr=NRT57-C1,hr=5,device=-}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"322","{locationstr=NRT57-C1,hr=20,device=okhttp/3.9.1}","{result0=Miss}",6.47332988089073e-05,0.75,2.78755313176678,3
+"324","{locationstr=NRT52,hr=19,device=okhttp/3.9.1}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"331","{locationstr=NRT20-C1,hr=21,device=okhttp/3.9.1}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"343","{locationstr=NRT20,hr=23,device=okhttp/3.9.1}","{result0=Miss}",6.47332988089073e-05,0.75,2.78755313176678,3
+"344","{locationstr=NRT20-C1,hr=23,device=okhttp/3.9.1}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"361","{locationstr=NRT20-C1,hr=2,device=okhttp/3.9.1}","{result0=Miss}",6.47332988089073e-05,0.6,2.23004250541342,3
+"368","{locationstr=NRT12,hr=13,device=okhttp/3.9.1}","{result0=Miss}",6.47332988089073e-05,0.75,2.78755313176678,3
+"379","{locationstr=NRT20-C1,hr=4,device=okhttp/3.9.1}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"382","{locationstr=NRT57-C1,hr=3,device=okhttp/3.9.1}","{result0=Miss}",6.47332988089073e-05,0.6,2.23004250541342,3
+"392","{locationstr=NRT57-C1,hr=16,device=okhttp/3.9.1}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"405","{locationstr=NRT53,hr=11,device=okhttp/3.9.1}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"408","{locationstr=NRT51,hr=10,device=okhttp/3.9.1}","{result0=Miss}",6.47332988089073e-05,0.75,2.78755313176678,3
+"414","{locationstr=NRT20,hr=10,device=okhttp/3.9.1}","{result0=Miss}",6.47332988089073e-05,0.6,2.23004250541342,3
+"418","{locationstr=NRT20,hr=15,device=okhttp/3.9.1}","{result0=Miss}",6.47332988089073e-05,0.75,2.78755313176678,3
+"439","{locationstr=NRT57-C1,hr=20,device=iOS-Device}","{result0=Miss}",6.47332988089073e-05,0.6,2.23004250541342,3
+"449","{locationstr=NRT57-C1,hr=18,device=iOS-Device}","{result0=Miss}",6.47332988089073e-05,0.75,2.78755313176678,3
+"451","{locationstr=NRT57-C2,hr=22,device=iOS-Device}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"463","{locationstr=NRT53,hr=0,device=iOS-Device}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"467","{locationstr=NRT57-C1,hr=0,device=iOS-Device}","{result0=Miss}",6.47332988089073e-05,0.6,2.23004250541342,3
+"473","{locationstr=NRT57-C1,hr=1,device=iOS-Device}","{result0=Miss}",6.47332988089073e-05,0.5,1.85836875451119,3
+"485","{locationstr=NRT57-C2,hr=16,device=iOS-Device}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"486","{locationstr=NRT57-C2,hr=7,device=iOS-Device}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"487","{locationstr=NRT57-C2,hr=11,device=iOS-Device}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"504","{locationstr=NRT20-C1,hr=6,device=iOS-Device}","{result0=Miss}",6.47332988089073e-05,0.6,2.23004250541342,3
+"506","{locationstr=NRT53,hr=16,device=iOS-Device}","{result0=Miss}",6.47332988089073e-05,0.6,2.23004250541342,3
+"507","{locationstr=NRT20,hr=16,device=iOS-Device}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"508","{locationstr=NRT52,hr=16,device=iOS-Device}","{result0=Miss}",6.47332988089073e-05,0.5,1.85836875451119,3
+"525","{locationstr=NRT51,hr=14,device=iOS-Device}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"530","{locationstr=NRT52,hr=15,device=iOS-Device}","{result0=Miss}",6.47332988089073e-05,0.75,2.78755313176678,3
+"536","{locationstr=NRT52,hr=14,device=iOS-Device}","{result0=Miss}",6.47332988089073e-05,0.5,1.85836875451119,3
+"537","{locationstr=NRT20-C1,hr=12,device=iOS-Device}","{result0=Miss}",6.47332988089073e-05,0.5,1.85836875451119,3
+"539","{locationstr=NRT52,hr=13,device=iOS-Device}","{result0=Miss}",6.47332988089073e-05,0.75,2.78755313176678,3
+"543","{locationstr=NRT52,hr=20,device=SSPKSample/1.0}","{result0=Miss}",6.47332988089073e-05,0.75,2.78755313176678,3
+"544","{locationstr=NRT57-C2,hr=20,device=PC}","{result0=Miss}",6.47332988089073e-05,0.5,1.85836875451119,3
+"550","{locationstr=NRT20-C1,hr=20,device=PC}","{result0=Miss}",6.47332988089073e-05,0.75,2.78755313176678,3
+"559","{locationstr=NRT51,hr=19,device=PC}","{result0=Miss}",6.47332988089073e-05,0.5,1.85836875451119,3
+"575","{locationstr=NRT12-C1,hr=18,device=SSPKSample/1.0}","{result0=Miss}",6.47332988089073e-05,0.6,2.23004250541342,3
+"583","{locationstr=NRT51,hr=23,device=SSPKSample/1.0}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"584","{locationstr=NRT20,hr=23,device=SSPKSample/1.0}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"603","{locationstr=NRT57-C1,hr=17,device=SSPKSample/1.0}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"616","{locationstr=NRT57-C2,hr=5,device=SSPKSample/1.0}","{result0=Miss}",6.47332988089073e-05,0.6,2.23004250541342,3
+"618","{locationstr=NRT57-C2,hr=7,device=SSPKSample/1.0}","{result0=Miss}",6.47332988089073e-05,0.6,2.23004250541342,3
+"621","{locationstr=NRT57-C2,hr=11,device=SSPKSample/1.0}","{result0=Miss}",6.47332988089073e-05,0.5,1.85836875451119,3
+"623","{locationstr=NRT57-C2,hr=12,device=SSPKSample/1.0}","{result0=Miss}",6.47332988089073e-05,0.5,1.85836875451119,3
+"625","{locationstr=NRT51,hr=4,device=SSPKSample/1.0}","{result0=Miss}",6.47332988089073e-05,0.6,2.23004250541342,3
+"627","{locationstr=NRT57-C1,hr=4,device=SSPKSample/1.0}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"628","{locationstr=NRT20-C1,hr=3,device=SSPKSample/1.0}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"632","{locationstr=NRT57-C1,hr=5,device=SSPKSample/1.0}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"633","{locationstr=NRT53,hr=6,device=SSPKSample/1.0}","{result0=Miss}",6.47332988089073e-05,0.5,1.85836875451119,3
+"634","{locationstr=NRT52,hr=6,device=SSPKSample/1.0}","{result0=Miss}",6.47332988089073e-05,0.6,2.23004250541342,3
+"646","{locationstr=NRT20-C1,hr=9,device=SSPKSample/1.0}","{result0=Miss}",6.47332988089073e-05,0.75,2.78755313176678,3
+"647","{locationstr=NRT57-C1,hr=9,device=SSPKSample/1.0}","{result0=Miss}",6.47332988089073e-05,0.75,2.78755313176678,3
+"648","{locationstr=NRT53,hr=10,device=SSPKSample/1.0}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"649","{locationstr=NRT53,hr=15,device=SSPKSample/1.0}","{result0=Miss}",6.47332988089073e-05,0.75,2.78755313176678,3
+"665","{locationstr=NRT57-C1,hr=14,device=SSPKSample/1.0}","{result0=Miss}",6.47332988089073e-05,0.75,2.78755313176678,3
+"668","{locationstr=NRT57-C2,hr=18,device=iPad}","{result0=Miss}",6.47332988089073e-05,0.5,1.85836875451119,3
+"673","{locationstr=NRT57-C2,hr=22,device=PC}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"674","{locationstr=NRT51,hr=22,device=PC}","{result0=Miss}",6.47332988089073e-05,0.6,2.23004250541342,3
+"680","{locationstr=NRT20-C1,hr=23,device=PC}","{result0=Miss}",6.47332988089073e-05,0.75,2.78755313176678,3
+"685","{locationstr=NRT12-C1,hr=10,device=iPhone}","{result0=Miss}",6.47332988089073e-05,0.75,2.78755313176678,3
+"691","{locationstr=NRT57-C2,hr=0,device=iPad}","{result0=Miss}",6.47332988089073e-05,0.75,2.78755313176678,3
+"706","{locationstr=NRT20-C1,hr=17,device=PC}","{result0=Miss}",6.47332988089073e-05,0.6,2.23004250541342,3
+"716","{locationstr=NRT12,hr=9,device=iPad}","{result0=Miss}",6.47332988089073e-05,0.6,2.23004250541342,3
+"721","{locationstr=NRT57-C2,hr=3,device=iPad}","{result0=Miss}",6.47332988089073e-05,0.5,1.85836875451119,3
+"733","{locationstr=NRT57-C2,hr=9,device=iPad}","{result0=Miss}",6.47332988089073e-05,0.6,2.23004250541342,3
+"758","{locationstr=NRT20-C1,hr=5,device=STW2000}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"765","{locationstr=NRT20-C1,hr=16,device=STW2000}","{result0=Miss}",6.47332988089073e-05,0.75,2.78755313176678,3
+"774","{locationstr=NRT20-C1,hr=9,device=STW2000}","{result0=Miss}",6.47332988089073e-05,1,3.71673750902238,3
+"21","{locationstr=BOM51,hr=1,device=PC}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"28","{locationstr=ICN54,hr=11,device=PC}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"47","{locationstr=HKG50,hr=7,device=PC}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"48","{locationstr=HKG50,hr=14,device=Generic Smartphone}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"51","{locationstr=EWR52-C1,hr=11,device=STW2000}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"53","{locationstr=ICN55-C1,hr=13,device=iOS-Device}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"71","{locationstr=SEA32,hr=12,device=Generic Smartphone}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"84","{locationstr=HKG53,hr=10,device=Generic Smartphone}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"90","{locationstr=ICN51,hr=12,device=PC}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"98","{locationstr=NRT12,hr=6,device=C02AS}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"101","{locationstr=NRT52,hr=6,device=C02AS}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"114","{locationstr=NRT53,hr=17,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.14.14%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"117","{locationstr=NRT53,hr=15,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.14.14%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"118","{locationstr=NRT53,hr=13,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.14.14%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"122","{locationstr=NRT57-C1,hr=12,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.14.14%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"129","{locationstr=NRT52,hr=12,device=BRAVIA 4K 2015}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"130","{locationstr=TPE52-C1,hr=8,device=iOS-Device}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"136","{locationstr=TPE52-C1,hr=15,device=PC}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"141","{locationstr=HKG51,hr=22,device=PC}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"148","{locationstr=HKG51,hr=8,device=PC}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"157","{locationstr=NRT57-C1,hr=6,device=AppleTV}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"168","{locationstr=NRT57-C1,hr=2,device=BRAVIA 4K GB}","{result0=Miss}",4.31555325392715e-05,0.666666666666667,2.47782500601492,2
+"188","{locationstr=NRT57-C1,hr=0,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"195","{locationstr=NRT20,hr=4,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"198","{locationstr=NRT57-C1,hr=5,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"202","{locationstr=NRT52,hr=8,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"210","{locationstr=NRT57-C1,hr=10,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"214","{locationstr=NRT57-C1,hr=11,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"218","{locationstr=NRT20-C1,hr=13,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"230","{locationstr=NRT52,hr=4,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"238","{locationstr=NRT57-C1,hr=7,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"243","{locationstr=NRT57-C1,hr=9,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"248","{locationstr=NRT52,hr=10,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"252","{locationstr=NRT57-C1,hr=14,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"259","{locationstr=NRT57-C2,hr=0,device=okhttp/3.9.0}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"265","{locationstr=NRT51,hr=2,device=okhttp/3.9.0}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"266","{locationstr=NRT20-C1,hr=2,device=okhttp/3.9.0}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"269","{locationstr=NRT57-C2,hr=6,device=okhttp/3.9.0}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"272","{locationstr=NRT20-C1,hr=4,device=okhttp/3.9.0}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"273","{locationstr=NRT20-C1,hr=5,device=okhttp/3.9.0}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"279","{locationstr=NRT57-C1,hr=9,device=okhttp/3.9.0}","{result0=Miss}",4.31555325392715e-05,0.5,1.85836875451119,2
+"283","{locationstr=NRT57-C1,hr=15,device=okhttp/3.9.0}","{result0=Miss}",4.31555325392715e-05,0.666666666666667,2.47782500601492,2
+"289","{locationstr=NRT52,hr=21,device=-}","{result0=Miss}",4.31555325392715e-05,0.666666666666667,2.47782500601492,2
+"294","{locationstr=NRT57-C2,hr=0,device=-}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"299","{locationstr=NRT57-C2,hr=12,device=-}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"306","{locationstr=NRT57-C1,hr=16,device=-}","{result0=Miss}",4.31555325392715e-05,0.666666666666667,2.47782500601492,2
+"309","{locationstr=NRT52,hr=8,device=-}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"312","{locationstr=NRT57-C1,hr=10,device=-}","{result0=Miss}",4.31555325392715e-05,0.666666666666667,2.47782500601492,2
+"316","{locationstr=NRT20,hr=13,device=-}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"318","{locationstr=NRT57-C1,hr=11,device=-}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"323","{locationstr=NRT53,hr=19,device=okhttp/3.9.1}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"325","{locationstr=NRT20-C1,hr=19,device=okhttp/3.9.1}","{result0=Miss}",4.31555325392715e-05,0.666666666666667,2.47782500601492,2
+"327","{locationstr=NRT12,hr=21,device=okhttp/3.9.1}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"335","{locationstr=NRT57-C1,hr=18,device=okhttp/3.9.1}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"337","{locationstr=NRT53,hr=22,device=okhttp/3.9.1}","{result0=Miss}",4.31555325392715e-05,0.666666666666667,2.47782500601492,2
+"342","{locationstr=NRT51,hr=23,device=okhttp/3.9.1}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"346","{locationstr=NRT12-C1,hr=3,device=okhttp/3.9.1}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"348","{locationstr=NRT12-C1,hr=7,device=okhttp/3.9.1}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"349","{locationstr=NRT12-C1,hr=11,device=okhttp/3.9.1}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"350","{locationstr=NRT12-C1,hr=13,device=okhttp/3.9.1}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"351","{locationstr=NRT12,hr=0,device=okhttp/3.9.1}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"358","{locationstr=NRT57-C2,hr=2,device=okhttp/3.9.1}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"363","{locationstr=NRT12,hr=3,device=okhttp/3.9.1}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"370","{locationstr=NRT57-C2,hr=10,device=okhttp/3.9.1}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"371","{locationstr=NRT57-C2,hr=15,device=okhttp/3.9.1}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"383","{locationstr=NRT53,hr=5,device=okhttp/3.9.1}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"384","{locationstr=NRT20,hr=5,device=okhttp/3.9.1}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"389","{locationstr=NRT51,hr=16,device=okhttp/3.9.1}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"396","{locationstr=NRT57-C1,hr=7,device=okhttp/3.9.1}","{result0=Miss}",4.31555325392715e-05,0.5,1.85836875451119,2
+"397","{locationstr=NRT53,hr=8,device=okhttp/3.9.1}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"400","{locationstr=NRT20-C1,hr=8,device=okhttp/3.9.1}","{result0=Miss}",4.31555325392715e-05,0.666666666666667,2.47782500601492,2
+"401","{locationstr=NRT53,hr=9,device=okhttp/3.9.1}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"407","{locationstr=NRT53,hr=13,device=okhttp/3.9.1}","{result0=Miss}",4.31555325392715e-05,0.666666666666667,2.47782500601492,2
+"409","{locationstr=NRT51,hr=15,device=okhttp/3.9.1}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"410","{locationstr=NRT51,hr=11,device=okhttp/3.9.1}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"413","{locationstr=NRT51,hr=13,device=okhttp/3.9.1}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"419","{locationstr=NRT20-C1,hr=15,device=okhttp/3.9.1}","{result0=Miss}",4.31555325392715e-05,0.666666666666667,2.47782500601492,2
+"423","{locationstr=NRT20,hr=13,device=okhttp/3.9.1}","{result0=Miss}",4.31555325392715e-05,0.5,1.85836875451119,2
+"432","{locationstr=NRT20-C1,hr=13,device=okhttp/3.9.1}","{result0=Miss}",4.31555325392715e-05,0.666666666666667,2.47782500601492,2
+"434","{locationstr=NRT12,hr=20,device=iOS-Device}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"438","{locationstr=NRT20-C1,hr=20,device=iOS-Device}","{result0=Miss}",4.31555325392715e-05,0.666666666666667,2.47782500601492,2
+"441","{locationstr=NRT52,hr=19,device=iOS-Device}","{result0=Miss}",4.31555325392715e-05,0.666666666666667,2.47782500601492,2
+"444","{locationstr=NRT57-C2,hr=21,device=iOS-Device}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"446","{locationstr=NRT52,hr=21,device=iOS-Device}","{result0=Miss}",4.31555325392715e-05,0.5,1.85836875451119,2
+"447","{locationstr=NRT20-C1,hr=21,device=iOS-Device}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"452","{locationstr=NRT51,hr=22,device=iOS-Device}","{result0=Miss}",4.31555325392715e-05,0.666666666666667,2.47782500601492,2
+"454","{locationstr=NRT52,hr=22,device=iOS-Device}","{result0=Miss}",4.31555325392715e-05,0.666666666666667,2.47782500601492,2
+"455","{locationstr=NRT20-C1,hr=22,device=iOS-Device}","{result0=Miss}",4.31555325392715e-05,0.5,1.85836875451119,2
+"457","{locationstr=NRT52,hr=23,device=iOS-Device}","{result0=Miss}",4.31555325392715e-05,0.666666666666667,2.47782500601492,2
+"458","{locationstr=NRT57-C1,hr=23,device=iOS-Device}","{result0=Miss}",4.31555325392715e-05,0.5,1.85836875451119,2
+"460","{locationstr=NRT12-C1,hr=6,device=iOS-Device}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"464","{locationstr=NRT20,hr=0,device=iOS-Device}","{result0=Miss}",4.31555325392715e-05,0.5,1.85836875451119,2
+"468","{locationstr=NRT57-C2,hr=1,device=iOS-Device}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"474","{locationstr=NRT57-C2,hr=17,device=iOS-Device}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"475","{locationstr=NRT20-C1,hr=17,device=iOS-Device}","{result0=Miss}",4.31555325392715e-05,0.5,1.85836875451119,2
+"481","{locationstr=NRT12,hr=11,device=iOS-Device}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"482","{locationstr=NRT12,hr=12,device=iOS-Device}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"483","{locationstr=NRT57-C2,hr=3,device=iOS-Device}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"488","{locationstr=NRT57-C2,hr=14,device=iOS-Device}","{result0=Miss}",4.31555325392715e-05,0.5,1.85836875451119,2
+"492","{locationstr=NRT52,hr=4,device=iOS-Device}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"496","{locationstr=NRT20,hr=3,device=iOS-Device}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"498","{locationstr=NRT20-C1,hr=3,device=iOS-Device}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"499","{locationstr=NRT57-C1,hr=3,device=iOS-Device}","{result0=Miss}",4.31555325392715e-05,0.5,1.85836875451119,2
+"503","{locationstr=NRT51,hr=6,device=iOS-Device}","{result0=Miss}",4.31555325392715e-05,0.666666666666667,2.47782500601492,2
+"515","{locationstr=NRT20,hr=8,device=iOS-Device}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"522","{locationstr=NRT53,hr=11,device=iOS-Device}","{result0=Miss}",4.31555325392715e-05,0.5,1.85836875451119,2
+"523","{locationstr=NRT53,hr=14,device=iOS-Device}","{result0=Miss}",4.31555325392715e-05,0.666666666666667,2.47782500601492,2
+"529","{locationstr=NRT20,hr=15,device=iOS-Device}","{result0=Miss}",4.31555325392715e-05,0.666666666666667,2.47782500601492,2
+"533","{locationstr=NRT20,hr=14,device=iOS-Device}","{result0=Miss}",4.31555325392715e-05,0.666666666666667,2.47782500601492,2
+"545","{locationstr=NRT57-C2,hr=20,device=iPhone}","{result0=Miss}",4.31555325392715e-05,0.5,1.85836875451119,2
+"552","{locationstr=NRT12-C1,hr=19,device=SSPKSample/1.0}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"553","{locationstr=NRT51,hr=19,device=SSPKSample/1.0}","{result0=Miss}",4.31555325392715e-05,0.5,1.85836875451119,2
+"554","{locationstr=NRT20,hr=19,device=SSPKSample/1.0}","{result0=Miss}",4.31555325392715e-05,0.5,1.85836875451119,2
+"555","{locationstr=NRT57-C1,hr=19,device=SSPKSample/1.0}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"556","{locationstr=NRT12-C1,hr=19,device=PC}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"557","{locationstr=NRT12,hr=19,device=PC}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"567","{locationstr=NRT57-C1,hr=21,device=SSPKSample/1.0}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"574","{locationstr=NRT20-C1,hr=21,device=STW2000}","{result0=Miss}",4.31555325392715e-05,0.666666666666667,2.47782500601492,2
+"576","{locationstr=NRT20,hr=18,device=SSPKSample/1.0}","{result0=Miss}",4.31555325392715e-05,0.5,1.85836875451119,2
+"578","{locationstr=NRT12,hr=22,device=SSPKSample/1.0}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"580","{locationstr=NRT53,hr=22,device=SSPKSample/1.0}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"582","{locationstr=NRT12,hr=23,device=SSPKSample/1.0}","{result0=Miss}",4.31555325392715e-05,0.666666666666667,2.47782500601492,2
+"587","{locationstr=NRT12-C1,hr=4,device=SSPKSample/1.0}","{result0=Miss}",4.31555325392715e-05,0.5,1.85836875451119,2
+"589","{locationstr=NRT12-C1,hr=14,device=SSPKSample/1.0}","{result0=Miss}",4.31555325392715e-05,0.5,1.85836875451119,2
+"594","{locationstr=NRT57-C1,hr=0,device=SSPKSample/1.0}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"605","{locationstr=NRT53,hr=2,device=SSPKSample/1.0}","{result0=Miss}",4.31555325392715e-05,0.666666666666667,2.47782500601492,2
+"606","{locationstr=NRT51,hr=2,device=SSPKSample/1.0}","{result0=Miss}",4.31555325392715e-05,0.5,1.85836875451119,2
+"607","{locationstr=NRT57-C1,hr=2,device=SSPKSample/1.0}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"640","{locationstr=NRT57-C1,hr=7,device=SSPKSample/1.0}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"643","{locationstr=NRT57-C1,hr=8,device=SSPKSample/1.0}","{result0=Miss}",4.31555325392715e-05,0.666666666666667,2.47782500601492,2
+"650","{locationstr=NRT53,hr=13,device=SSPKSample/1.0}","{result0=Miss}",4.31555325392715e-05,0.5,1.85836875451119,2
+"652","{locationstr=NRT51,hr=11,device=SSPKSample/1.0}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"653","{locationstr=NRT51,hr=14,device=SSPKSample/1.0}","{result0=Miss}",4.31555325392715e-05,0.666666666666667,2.47782500601492,2
+"659","{locationstr=NRT52,hr=15,device=SSPKSample/1.0}","{result0=Miss}",4.31555325392715e-05,0.666666666666667,2.47782500601492,2
+"671","{locationstr=NRT20-C1,hr=18,device=STW2000}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"676","{locationstr=NRT12,hr=23,device=iPhone}","{result0=Miss}",4.31555325392715e-05,0.5,1.85836875451119,2
+"678","{locationstr=NRT57-C2,hr=23,device=iPad}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"684","{locationstr=NRT12-C1,hr=5,device=iPhone}","{result0=Miss}",4.31555325392715e-05,0.5,1.85836875451119,2
+"688","{locationstr=NRT12,hr=0,device=PC}","{result0=Miss}",4.31555325392715e-05,0.5,1.85836875451119,2
+"699","{locationstr=NRT12,hr=1,device=PC}","{result0=Miss}",4.31555325392715e-05,0.666666666666667,2.47782500601492,2
+"708","{locationstr=NRT20-C1,hr=17,device=STW2000}","{result0=Miss}",4.31555325392715e-05,0.666666666666667,2.47782500601492,2
+"751","{locationstr=NRT20-C1,hr=4,device=STW2000}","{result0=Miss}",4.31555325392715e-05,0.666666666666667,2.47782500601492,2
+"761","{locationstr=NRT20-C1,hr=6,device=STW2000}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"780","{locationstr=NRT20-C1,hr=15,device=STW2000}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"784","{locationstr=NRT20-C1,hr=11,device=STW2000}","{result0=Miss}",4.31555325392715e-05,0.666666666666667,2.47782500601492,2
+"787","{locationstr=NRT20-C1,hr=14,device=STW2000}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"790","{locationstr=NRT20-C1,hr=12,device=STW2000}","{result0=Miss}",4.31555325392715e-05,1,3.71673750902238,2
+"793","{locationstr=NRT20-C1,hr=13,device=STW2000}","{result0=Miss}",4.31555325392715e-05,0.5,1.85836875451119,2
+"1","{locationstr=NRT20,hr=20,device=SCV38}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"2","{locationstr=NRT20-C1,hr=2,device=SHV35}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"3","{locationstr=ZRH50,hr=7,device=PC}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"4","{locationstr=DFW54,hr=9,device=Generic Smartphone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"5","{locationstr=NRT12,hr=20,device=SOT31}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"6","{locationstr=NRT51,hr=0,device=SCV37}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"7","{locationstr=ICN50,hr=14,device=iPad}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"8","{locationstr=SEA19,hr=6,device=Generic Smartphone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"9","{locationstr=DFW50,hr=12,device=PC}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"10","{locationstr=LAX3-C1,hr=12,device=Generic Smartphone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"11","{locationstr=NRT53,hr=22,device=LGL22}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"12","{locationstr=IAD16,hr=14,device=Generic Smartphone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"13","{locationstr=ORD51,hr=6,device=iPhone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"14","{locationstr=NRT57-C1,hr=11,device=SHV31}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"15","{locationstr=DEL51,hr=7,device=iPhone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"16","{locationstr=LAX1,hr=13,device=iPad}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"17","{locationstr=LHR50,hr=22,device=Generic Smartphone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"18","{locationstr=NRT53,hr=2,device=KYV35}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"19","{locationstr=NRT20,hr=15,device=KYV33}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"20","{locationstr=NRT12,hr=13,device=SCV31}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"22","{locationstr=YUL62,hr=6,device=Generic Smartphone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"23","{locationstr=YUL62,hr=7,device=Generic Smartphone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"24","{locationstr=SYD1,hr=14,device=Generic Smartphone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"25","{locationstr=SYD1,hr=13,device=iPhone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"26","{locationstr=NRT57-C1,hr=7,device=SOV36}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"27","{locationstr=NRT20-C1,hr=12,device=SOV36}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"29","{locationstr=SFO5,hr=6,device=PC}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"30","{locationstr=SFO5,hr=7,device=PC}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"31","{locationstr=SIN5-C1,hr=3,device=PC}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"32","{locationstr=SIN5-C1,hr=13,device=iPhone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"33","{locationstr=NRT57-C1,hr=23,device=SOV34}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"34","{locationstr=NRT53,hr=5,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.10.21%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"35","{locationstr=NRT53,hr=9,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.10.21%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"36","{locationstr=NRT52,hr=12,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.10.21%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"37","{locationstr=LAX3,hr=7,device=iPhone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"38","{locationstr=LAX3,hr=15,device=iPad}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"39","{locationstr=LAX3,hr=14,device=iPhone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"40","{locationstr=SIN3,hr=5,device=iPhone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"41","{locationstr=SIN3,hr=15,device=PC}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"42","{locationstr=SIN3,hr=12,device=PC}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"43","{locationstr=DFW53,hr=17,device=Generic Smartphone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"44","{locationstr=DFW53,hr=3,device=iPhone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"45","{locationstr=DFW53,hr=9,device=Generic Smartphone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"46","{locationstr=DFW53,hr=10,device=Generic Smartphone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"49","{locationstr=NRT57-C2,hr=20,device=SMARTTVBOX}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"50","{locationstr=EWR52-C1,hr=2,device=PC}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"52","{locationstr=EWR52-C1,hr=11,device=Generic Smartphone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"54","{locationstr=ICN55-C1,hr=21,device=iPad}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"55","{locationstr=ICN55-C1,hr=15,device=PC}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"57","{locationstr=DFW3,hr=13,device=STW2000}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"58","{locationstr=NRT57-C2,hr=11,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.12.5%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"59","{locationstr=NRT52,hr=4,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.12.5%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"60","{locationstr=NRT52,hr=5,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.12.5%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"61","{locationstr=NRT52,hr=6,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.12.5%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"62","{locationstr=NRT57-C1,hr=12,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.12.5%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"63","{locationstr=KUL50,hr=13,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"64","{locationstr=KUL50,hr=3,device=PC}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"65","{locationstr=KUL50,hr=15,device=iPhone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"66","{locationstr=KUL50,hr=15,device=Generic Smartphone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"67","{locationstr=KUL50,hr=12,device=PC}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"68","{locationstr=SEA32,hr=10,device=Generic Smartphone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"69","{locationstr=SEA32,hr=15,device=Generic Smartphone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"70","{locationstr=SEA32,hr=11,device=Generic Smartphone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"72","{locationstr=NRT51,hr=3,device=LGT32}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"73","{locationstr=NRT20-C1,hr=6,device=LGT32}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"74","{locationstr=NRT57-C1,hr=8,device=LGT32}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"75","{locationstr=NRT52,hr=9,device=LGT32}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"76","{locationstr=NRT51,hr=22,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.10.20%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"77","{locationstr=NRT53,hr=4,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.10.20%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"78","{locationstr=NRT52,hr=9,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.10.20%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"79","{locationstr=NRT51,hr=12,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.10.20%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"81","{locationstr=HKG53,hr=23,device=Generic Smartphone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"82","{locationstr=HKG53,hr=2,device=Generic Smartphone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"83","{locationstr=HKG53,hr=16,device=PC}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"85","{locationstr=TPE50,hr=17,device=PC}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"86","{locationstr=TPE50,hr=2,device=PC}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"88","{locationstr=ICN51,hr=3,device=Generic Smartphone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"89","{locationstr=ICN51,hr=7,device=PC}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"91","{locationstr=ICN51,hr=12,device=Generic Smartphone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"93","{locationstr=NRT57-C1,hr=18,device=Generic Tablet}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"94","{locationstr=NRT57-C1,hr=17,device=Generic Tablet}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"95","{locationstr=NRT52,hr=7,device=Generic Tablet}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"96","{locationstr=NRT57-C1,hr=11,device=Generic Tablet}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"97","{locationstr=NRT53,hr=2,device=C02AS}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"99","{locationstr=NRT12,hr=9,device=C02AS}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"100","{locationstr=NRT57-C1,hr=3,device=C02AS}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"102","{locationstr=NRT57-C1,hr=6,device=C02AS}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"103","{locationstr=NRT52,hr=7,device=C02AS}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"104","{locationstr=NRT57-C1,hr=7,device=C02AS}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"106","{locationstr=NRT53,hr=9,device=BRAVIA 2015}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"107","{locationstr=NRT53,hr=11,device=BRAVIA 2015}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"108","{locationstr=NRT20,hr=10,device=BRAVIA 2015}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"109","{locationstr=NRT20,hr=11,device=BRAVIA 2015}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"110","{locationstr=NRT20,hr=12,device=BRAVIA 2015}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"111","{locationstr=NRT20,hr=13,device=BRAVIA 2015}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"112","{locationstr=NRT57-C1,hr=11,device=BRAVIA 2015}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"113","{locationstr=NRT12-C1,hr=8,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.14.14%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"115","{locationstr=NRT20,hr=6,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.14.14%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"116","{locationstr=NRT52,hr=9,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.14.14%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"119","{locationstr=NRT51,hr=15,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.14.14%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"120","{locationstr=NRT51,hr=11,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.14.14%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"121","{locationstr=NRT57-C1,hr=14,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.14.14%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"123","{locationstr=NRT57-C2,hr=5,device=BRAVIA 4K 2015}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"124","{locationstr=NRT20,hr=4,device=BRAVIA 4K 2015}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"125","{locationstr=NRT20-C1,hr=16,device=BRAVIA 4K 2015}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"126","{locationstr=NRT20-C1,hr=9,device=BRAVIA 4K 2015}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"127","{locationstr=NRT53,hr=14,device=BRAVIA 4K 2015}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"128","{locationstr=NRT20-C1,hr=15,device=BRAVIA 4K 2015}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"131","{locationstr=TPE52-C1,hr=19,device=PC}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"132","{locationstr=TPE52-C1,hr=18,device=iPhone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"133","{locationstr=TPE52-C1,hr=3,device=PC}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"134","{locationstr=TPE52-C1,hr=7,device=Generic Smartphone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"135","{locationstr=TPE52-C1,hr=8,device=iPhone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"137","{locationstr=TPE52-C1,hr=11,device=iPhone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"138","{locationstr=TPE52-C1,hr=11,device=Generic Smartphone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"139","{locationstr=TPE52-C1,hr=14,device=Generic Smartphone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"140","{locationstr=TPE52-C1,hr=13,device=Generic Smartphone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"142","{locationstr=HKG51,hr=0,device=PC}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"143","{locationstr=HKG51,hr=4,device=Generic Smartphone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"144","{locationstr=HKG51,hr=3,device=Generic Smartphone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"146","{locationstr=HKG51,hr=6,device=PC}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"147","{locationstr=HKG51,hr=7,device=PC}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"149","{locationstr=HKG51,hr=10,device=Generic Smartphone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"150","{locationstr=HKG51,hr=15,device=PC}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"151","{locationstr=HKG51,hr=11,device=PC}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"152","{locationstr=HKG51,hr=14,device=PC}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"153","{locationstr=HKG51,hr=12,device=Generic Smartphone}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"154","{locationstr=HKG51,hr=13,device=PC}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"155","{locationstr=NRT57-C1,hr=2,device=AppleTV}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"156","{locationstr=NRT12,hr=6,device=AppleTV}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"158","{locationstr=NRT53,hr=7,device=AppleTV}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"159","{locationstr=NRT53,hr=8,device=AppleTV}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"160","{locationstr=NRT57-C1,hr=9,device=AppleTV}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"161","{locationstr=NRT51,hr=12,device=AppleTV}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"162","{locationstr=NRT57-C1,hr=14,device=AppleTV}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"163","{locationstr=NRT20-C1,hr=13,device=AppleTV}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"164","{locationstr=NRT12-C1,hr=14,device=BRAVIA 4K GB}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"165","{locationstr=NRT12-C1,hr=13,device=BRAVIA 4K GB}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"166","{locationstr=NRT57-C1,hr=0,device=BRAVIA 4K GB}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"167","{locationstr=NRT51,hr=2,device=BRAVIA 4K GB}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"169","{locationstr=NRT20,hr=4,device=BRAVIA 4K GB}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"170","{locationstr=NRT57-C1,hr=4,device=BRAVIA 4K GB}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"171","{locationstr=NRT20-C1,hr=5,device=BRAVIA 4K GB}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"172","{locationstr=NRT20-C1,hr=6,device=BRAVIA 4K GB}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"173","{locationstr=NRT52,hr=16,device=BRAVIA 4K GB}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"174","{locationstr=NRT20-C1,hr=16,device=BRAVIA 4K GB}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"175","{locationstr=NRT53,hr=8,device=BRAVIA 4K GB}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"176","{locationstr=NRT51,hr=8,device=BRAVIA 4K GB}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"177","{locationstr=NRT20-C1,hr=8,device=BRAVIA 4K GB}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"178","{locationstr=NRT57-C1,hr=8,device=BRAVIA 4K GB}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"179","{locationstr=NRT52,hr=9,device=BRAVIA 4K GB}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"180","{locationstr=NRT57-C1,hr=9,device=BRAVIA 4K GB}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"181","{locationstr=NRT51,hr=15,device=BRAVIA 4K GB}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"182","{locationstr=NRT20,hr=12,device=BRAVIA 4K GB}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"183","{locationstr=NRT57-C1,hr=11,device=BRAVIA 4K GB}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"185","{locationstr=NRT57-C1,hr=19,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"186","{locationstr=NRT20-C1,hr=22,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"187","{locationstr=NRT12-C1,hr=17,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"189","{locationstr=NRT53,hr=1,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"190","{locationstr=NRT57-C1,hr=1,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"191","{locationstr=NRT53,hr=2,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"192","{locationstr=NRT52,hr=2,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"193","{locationstr=NRT12,hr=13,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"194","{locationstr=NRT57-C2,hr=11,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"196","{locationstr=NRT57-C1,hr=3,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"197","{locationstr=NRT20-C1,hr=5,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"199","{locationstr=NRT53,hr=6,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"200","{locationstr=NRT51,hr=16,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"201","{locationstr=NRT57-C1,hr=7,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"203","{locationstr=NRT57-C1,hr=8,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"204","{locationstr=NRT52,hr=9,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"206","{locationstr=NRT53,hr=10,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"207","{locationstr=NRT53,hr=11,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"208","{locationstr=NRT53,hr=14,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"209","{locationstr=NRT52,hr=10,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"211","{locationstr=NRT20,hr=15,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"212","{locationstr=NRT52,hr=15,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"213","{locationstr=NRT57-C1,hr=15,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"215","{locationstr=NRT20-C1,hr=14,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"217","{locationstr=NRT52,hr=12,device=Mozilla/5.0%2520(Linux;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.20.2%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"220","{locationstr=NRT52,hr=20,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"221","{locationstr=NRT57-C1,hr=19,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"222","{locationstr=NRT57-C1,hr=21,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"223","{locationstr=NRT52,hr=22,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"224","{locationstr=NRT52,hr=0,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"225","{locationstr=NRT57-C2,hr=1,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"226","{locationstr=NRT51,hr=2,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"227","{locationstr=NRT52,hr=2,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"229","{locationstr=NRT57-C2,hr=5,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"231","{locationstr=NRT52,hr=3,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"232","{locationstr=NRT52,hr=5,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"235","{locationstr=NRT53,hr=16,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"236","{locationstr=NRT51,hr=16,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"237","{locationstr=NRT57-C1,hr=16,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"239","{locationstr=NRT51,hr=8,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"241","{locationstr=NRT57-C1,hr=8,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"242","{locationstr=NRT53,hr=9,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"244","{locationstr=NRT53,hr=13,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"245","{locationstr=NRT51,hr=15,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"246","{locationstr=NRT51,hr=14,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"247","{locationstr=NRT51,hr=12,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"249","{locationstr=NRT20-C1,hr=15,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"250","{locationstr=NRT57-C1,hr=15,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"253","{locationstr=NRT57-C1,hr=13,device=Mozilla/5.0%2520(FreeBSD;%2520U;%2520Viera;%2520ja-JP)%2520AppleWebKit/537.11%2520(KHTML,%2520like%2520Gecko)%2520Viera/3.19.8%2520Chrome/23.0.1271.97%2520Safari/537.11%2520SmartTvA/3.0.0%2520/videopass.viera}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"254","{locationstr=NRT57-C1,hr=20,device=okhttp/3.9.0}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"255","{locationstr=NRT20-C1,hr=19,device=okhttp/3.9.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"257","{locationstr=NRT12-C1,hr=10,device=okhttp/3.9.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"258","{locationstr=NRT12-C1,hr=15,device=okhttp/3.9.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"260","{locationstr=NRT20,hr=0,device=okhttp/3.9.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"261","{locationstr=NRT57-C1,hr=0,device=okhttp/3.9.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"262","{locationstr=NRT12,hr=1,device=okhttp/3.9.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"263","{locationstr=NRT52,hr=17,device=okhttp/3.9.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"264","{locationstr=NRT20-C1,hr=17,device=okhttp/3.9.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"267","{locationstr=NRT57-C1,hr=2,device=okhttp/3.9.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"268","{locationstr=NRT12,hr=9,device=okhttp/3.9.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"270","{locationstr=NRT57-C2,hr=16,device=okhttp/3.9.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"271","{locationstr=NRT57-C2,hr=15,device=okhttp/3.9.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"274","{locationstr=NRT57-C1,hr=5,device=okhttp/3.9.0}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"275","{locationstr=NRT51,hr=8,device=okhttp/3.9.0}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"276","{locationstr=NRT52,hr=8,device=okhttp/3.9.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"277","{locationstr=NRT57-C1,hr=8,device=okhttp/3.9.0}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"278","{locationstr=NRT51,hr=9,device=okhttp/3.9.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"280","{locationstr=NRT51,hr=14,device=okhttp/3.9.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"285","{locationstr=NRT20-C1,hr=12,device=okhttp/3.9.0}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"286","{locationstr=NRT57-C1,hr=12,device=okhttp/3.9.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"287","{locationstr=NRT57-C1,hr=13,device=okhttp/3.9.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"290","{locationstr=NRT57-C2,hr=22,device=-}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"291","{locationstr=NRT12-C1,hr=2,device=-}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"293","{locationstr=NRT12-C1,hr=10,device=-}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"295","{locationstr=NRT52,hr=1,device=-}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"296","{locationstr=NRT57-C1,hr=17,device=-}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"298","{locationstr=NRT57-C2,hr=8,device=-}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"300","{locationstr=NRT57-C2,hr=13,device=-}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"301","{locationstr=NRT20,hr=3,device=-}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"302","{locationstr=NRT20-C1,hr=3,device=-}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"303","{locationstr=NRT52,hr=5,device=-}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"304","{locationstr=NRT20-C1,hr=5,device=-}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"307","{locationstr=NRT51,hr=7,device=-}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"308","{locationstr=NRT57-C1,hr=7,device=-}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"310","{locationstr=NRT51,hr=11,device=-}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"311","{locationstr=NRT51,hr=12,device=-}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"313","{locationstr=NRT20-C1,hr=15,device=-}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"315","{locationstr=NRT20,hr=11,device=-}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"317","{locationstr=NRT20-C1,hr=11,device=-}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"319","{locationstr=NRT20-C1,hr=14,device=-}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"320","{locationstr=NRT51,hr=20,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"321","{locationstr=NRT20-C1,hr=20,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"328","{locationstr=NRT57-C2,hr=21,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"329","{locationstr=NRT53,hr=21,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"330","{locationstr=NRT52,hr=21,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"334","{locationstr=NRT20-C1,hr=18,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"336","{locationstr=NRT12,hr=22,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"341","{locationstr=NRT12,hr=23,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"347","{locationstr=NRT12-C1,hr=6,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"352","{locationstr=NRT20,hr=0,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"353","{locationstr=NRT51,hr=1,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"354","{locationstr=NRT52,hr=1,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"356","{locationstr=NRT57-C2,hr=17,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"357","{locationstr=NRT20-C1,hr=17,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"359","{locationstr=NRT53,hr=2,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"360","{locationstr=NRT52,hr=2,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"362","{locationstr=NRT57-C1,hr=2,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"364","{locationstr=NRT12,hr=10,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"365","{locationstr=NRT12,hr=15,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"366","{locationstr=NRT12,hr=14,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"367","{locationstr=NRT12,hr=12,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"369","{locationstr=NRT57-C2,hr=9,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"372","{locationstr=NRT57-C2,hr=11,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"373","{locationstr=NRT57-C2,hr=14,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"374","{locationstr=NRT57-C2,hr=12,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"375","{locationstr=NRT57-C2,hr=13,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"376","{locationstr=NRT53,hr=4,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"377","{locationstr=NRT20,hr=4,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"385","{locationstr=NRT20-C1,hr=5,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"387","{locationstr=NRT20,hr=6,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"388","{locationstr=NRT57-C1,hr=6,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"390","{locationstr=NRT52,hr=16,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"391","{locationstr=NRT20-C1,hr=16,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"393","{locationstr=NRT51,hr=7,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"394","{locationstr=NRT20,hr=7,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"395","{locationstr=NRT20-C1,hr=7,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"402","{locationstr=NRT20-C1,hr=9,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"403","{locationstr=NRT53,hr=10,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"406","{locationstr=NRT53,hr=12,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"415","{locationstr=NRT52,hr=10,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"421","{locationstr=NRT20,hr=14,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"431","{locationstr=NRT52,hr=13,device=okhttp/3.9.1}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"433","{locationstr=NRT12-C1,hr=20,device=iOS-Device}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"435","{locationstr=NRT53,hr=20,device=iOS-Device}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"436","{locationstr=NRT51,hr=20,device=iOS-Device}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"437","{locationstr=NRT20,hr=20,device=iOS-Device}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"440","{locationstr=NRT20,hr=19,device=iOS-Device}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"443","{locationstr=NRT12-C1,hr=21,device=iOS-Device}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"450","{locationstr=NRT12,hr=22,device=iOS-Device}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"459","{locationstr=NRT12-C1,hr=3,device=iOS-Device}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"461","{locationstr=NRT12-C1,hr=11,device=iOS-Device}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"462","{locationstr=NRT12-C1,hr=14,device=iOS-Device}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"465","{locationstr=NRT52,hr=0,device=iOS-Device}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"469","{locationstr=NRT51,hr=1,device=iOS-Device}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"471","{locationstr=NRT52,hr=1,device=iOS-Device}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"472","{locationstr=NRT20-C1,hr=1,device=iOS-Device}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"477","{locationstr=NRT57-C2,hr=2,device=iOS-Device}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"478","{locationstr=NRT12,hr=4,device=iOS-Device}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"479","{locationstr=NRT12,hr=10,device=iOS-Device}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"484","{locationstr=NRT57-C2,hr=5,device=iOS-Device}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"490","{locationstr=NRT53,hr=4,device=iOS-Device}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"491","{locationstr=NRT51,hr=4,device=iOS-Device}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"497","{locationstr=NRT52,hr=3,device=iOS-Device}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"500","{locationstr=NRT53,hr=5,device=iOS-Device}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"501","{locationstr=NRT20-C1,hr=5,device=iOS-Device}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"510","{locationstr=NRT53,hr=7,device=iOS-Device}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"514","{locationstr=NRT51,hr=8,device=iOS-Device}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"517","{locationstr=NRT53,hr=9,device=iOS-Device}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"519","{locationstr=NRT20,hr=9,device=iOS-Device}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"520","{locationstr=NRT20-C1,hr=9,device=iOS-Device}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"524","{locationstr=NRT51,hr=11,device=iOS-Device}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"532","{locationstr=NRT20,hr=11,device=iOS-Device}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"534","{locationstr=NRT20,hr=12,device=iOS-Device}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"535","{locationstr=NRT52,hr=11,device=iOS-Device}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"541","{locationstr=NRT12,hr=20,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"542","{locationstr=NRT57-C2,hr=20,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"549","{locationstr=NRT52,hr=20,device=PC}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"560","{locationstr=NRT51,hr=19,device=iPad}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"564","{locationstr=NRT20-C1,hr=19,device=STW2000}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"565","{locationstr=NRT12-C1,hr=21,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"568","{locationstr=NRT12-C1,hr=21,device=iPhone}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"569","{locationstr=NRT12,hr=21,device=PC}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"571","{locationstr=NRT51,hr=21,device=iPad}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"577","{locationstr=NRT52,hr=18,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"579","{locationstr=NRT57-C2,hr=22,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"585","{locationstr=NRT57-C1,hr=23,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"586","{locationstr=NRT12-C1,hr=2,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"591","{locationstr=NRT51,hr=0,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"593","{locationstr=NRT20-C1,hr=0,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"596","{locationstr=NRT57-C2,hr=1,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"597","{locationstr=NRT53,hr=1,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"598","{locationstr=NRT51,hr=1,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"600","{locationstr=NRT52,hr=1,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"601","{locationstr=NRT57-C2,hr=17,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"602","{locationstr=NRT51,hr=17,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"604","{locationstr=NRT57-C2,hr=2,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"620","{locationstr=NRT57-C2,hr=15,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"624","{locationstr=NRT53,hr=4,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"629","{locationstr=NRT57-C1,hr=3,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"631","{locationstr=NRT20-C1,hr=5,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"635","{locationstr=NRT20-C1,hr=6,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"636","{locationstr=NRT53,hr=16,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"637","{locationstr=NRT51,hr=7,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"639","{locationstr=NRT20-C1,hr=7,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"641","{locationstr=NRT51,hr=8,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"642","{locationstr=NRT20-C1,hr=8,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"644","{locationstr=NRT53,hr=9,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"651","{locationstr=NRT51,hr=10,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"654","{locationstr=NRT51,hr=13,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"656","{locationstr=NRT52,hr=10,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"660","{locationstr=NRT20-C1,hr=15,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"666","{locationstr=NRT57-C1,hr=12,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"667","{locationstr=NRT52,hr=13,device=SSPKSample/1.0}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"682","{locationstr=NRT12-C1,hr=0,device=PC}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"689","{locationstr=NRT12,hr=0,device=iPad}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"704","{locationstr=NRT20-C1,hr=1,device=STW2000}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"743","{locationstr=NRT57-C2,hr=14,device=STW2000}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"747","{locationstr=NRT57-C2,hr=12,device=STW2000}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
+"752","{locationstr=NRT52,hr=3,device=iPad}","{result0=Miss}",2.15777662696358e-05,0.5,1.85836875451119,1
+"772","{locationstr=NRT20-C1,hr=8,device=STW2000}","{result0=Miss}",2.15777662696358e-05,1,3.71673750902238,1
